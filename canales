@@ -56,7 +56,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=26c63851b7a0de9efed907571b19d342fc8d6
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
@@ -164,19 +164,19 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=be4381d1d5203fc0c4879a097277bd7683235
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" ,M+ Deportes 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7	
+http://127.0.0.1:6878/ace/manifest.m3u8?id=911b6c35f4802fd358b78b328528af4650eca020	
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" ,M+ Deportes 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=dba6e81dab3150e40ca49bef03f931a990bb93ea
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" ,M+ Deportes 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+http://127.0.0.1:6878/ace/manifest.m3u8?id=77b36b785e84efa9a41d2a1ef90dd9652b8d2916
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" ,M+ Deportes 5
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5ff896ae397b57a68435b25cde2937fac3e6cec1
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" ,M+ Deportes 6
-http://127.0.0.1:6878/ace/manifest.m3u8?id=cc5782d37ae6b6e0bab396dd64074982d0879046
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7ba003da71c2af61e5dd16c75ca025494769aa88
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" ,M+ Deportes 7
 http://127.0.0.1:6878/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932
