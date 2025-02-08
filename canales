@@ -28,14 +28,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d03c13b6723f66155d7a0df3692a3b073fe63
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ÀPunt" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" ,À Punt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Hits" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits
-http://127.0.0.1:6878/ace/manifest.m3u8?id=14767834db41c572ab83b80f7eadc3ba78a2ced0
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+AcciónHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" , M+ Acción HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a5e21f79ebd21c2562019ceefd9a7e21c8e2f6a5	
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=26c63851b7a0de9efed907571b19d342fc8d6765
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="24Horas" tvg-logo="https://i.imgur.com/IUVRm5L.png" ,24 HORAS
+https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="FactoríadeFicción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" ,Factoría de Ficción
 
@@ -49,8 +43,14 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=26c63851b7a0de9efed907571b19d342fc8d6
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ANHQV" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2016/05/03/409AC806-3398-4C0A-BD6B-B1E019976466/57.jpg" ,Aquí no hay quién viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="24Horas" tvg-logo="https://i.imgur.com/IUVRm5L.png" ,24 HORAS
-https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+AcciónHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" , M+ Acción HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a5e21f79ebd21c2562019ceefd9a7e21c8e2f6a5	
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Hits" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits
+http://127.0.0.1:6878/ace/manifest.m3u8?id=14767834db41c572ab83b80f7eadc3ba78a2ced0
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=26c63851b7a0de9efed907571b19d342fc8d6765
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="TDP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" ,Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
@@ -91,10 +91,25 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fef
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN LaLiga 2 
 http://127.0.0.1:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
 
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV HyperMotion
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
+
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga TV HyperMotion 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
+
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LaLiga TV HyperMotion 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="FEFTV1Grupo1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" ,FEF TV 1 Grupo 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
+
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="FEFTV1Grupo2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" ,FEF TV 1 Grupo 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf
+
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+COPA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" ,M+ Copa del Rey 
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigadeCampeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigadeCampeonesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=775abd8697715c48a357906d40734ccd2a10513c
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" ,M+ Liga de Campeones 2
@@ -145,22 +160,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5a412fd44a1f46f3446988ddeed658d861dd6
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones17" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP16.png" ,M+ Liga de Campeones 17
 http://127.0.0.1:6878/ace/manifest.m3u8?id=be4381d1d5203fc0c4879a097277bd7683235650
 
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV HyperMotion
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga TV HyperMotion 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
-
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LaLiga TV HyperMotion 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
-
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="FEFTV1Grupo1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" ,FEF TV 1 Grupo 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
-
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="FEFTV1Grupo2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" ,FEF TV 1 Grupo 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf
-
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes 
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+DeportesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" ,M+ Deportes 2
@@ -208,7 +208,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportFootball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/512px-Sky_Sport_Football_-_Logo_2020.svg.png?20200924143323" ,UK | Sky Sport Football
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPlus" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png?imageManager=true&impolicy=resize&height=360" ,UK | Sky Sports Plus
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySports+" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png?imageManager=true&impolicy=resize&height=360" ,UK | Sky Sports +
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportMainEvent" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/350?cb=20200924152245" ,UK | Sky Sport Main Event
