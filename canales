@@ -37,13 +37,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=a5e21f79ebd21c2562019ceefd9a7e21c8e2f
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=26c63851b7a0de9efed907571b19d342fc8d6765
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DMAX" tvg-logo="https://tvtvtv.ru/icons/dmax_it.png" ,DMAX
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" ,DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjQxOTgyNjQsIm5iZiI6MTcyNDE5ODI2NCwiZXhwIjoxNzI0MTk4NjI0LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMTIwLjY3LjI0MCJ9.WzEv974U5S_c93pptVGlzBy_M1Cnx4eN1rclCaEpy2I/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="FactoríadeFicción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" ,Factoría de Ficción
 https:
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Neox" tvg-logo="https://seeklogo.com/images/N/neox-2023-logo-366DAF4F12-seeklogo.com.png" ,Neox
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Neox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" ,Neox
 https://atres-live.atresmedia.com/cad8a20ce7dc6690028b30699e9c0a4a6599cf66_ES_1733588673_1733617413/h264/live/neox/master.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Mega" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Mega_Spain_2015.svg/revision/latest/scale-to-width-down/250?cb=20230804114316" ,Mega
@@ -58,13 +58,13 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="DEPORTES" tvg-id="TDP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" ,Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTV" tvg-logo="https://seeklogo.com/images/L/laligatv-por-movistar-plus-logo-A008E105DE-seeklogo.com.png" ,M+ LaLiga TV
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
 
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga" tvg-logo="https://seeklogo.com/images/D/dazn-laliga-logo-A711D07508-seeklogo.com.png" ,DAZN LaLiga
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
 
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaBar" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png" ,LaLiga TV Bar
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaBar" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" ,LaLiga TV Bar
 http://127.0.0.1:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DAZN 1
@@ -181,10 +181,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f41f1096862767289620be5bd85727f946a43
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+eEllasV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Logo_de_Ellas_Vamos_por_M%2B_-_2023.png" ,M+ Ellas Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d8c2ed470e847154a88f011137cc206319f6bed5
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport1" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Eurosport_1_Spain.png" ,EuroSport 1
+#EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,EuroSport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Eurosport_2_Spain.png" ,EuroSport 2
+#EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,EuroSport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=98784fa0714190de289f42eb5b84e405df7e685a
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportArena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/512px-Sky_Sport_Arena_-_Logo_2020.svg.png?20200924143444" ,UK | Sky Sport Arena
@@ -241,22 +241,22 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=edb507e38394d614c9ff55805c9d354ae1321
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FR|beINSPORTS3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_3_France.png" ,FR | beIN SPORTS 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ESPN" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png" ,ESPN
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" ,ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ESPN2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/e0jjaa1660762501.png" ,ESPN 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ESPN2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest?cb=20210609161318" ,ESPN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=664eb5fe460b96941aed633959a845b185cd8394
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" ,Deportes FOX  
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" ,FOX SPORTS 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c9c062941fbecb16ce29437f346ea7177d720898
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png" ,Deportes Fox 2 
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png" ,FOX SPORTS 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTSPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" ,FOX SPORTS PREMIUM
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6994af284ecab2996f9b140ef44b8da8bfee0006
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NBATV" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/owa6og1571337802.png" ,NBA TV
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NBATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest?cb=20230210205248&path-prefix=es" ,NBA TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
 
 
