@@ -13,7 +13,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=a6cfb25becd96cbe9d1929e0e560016beac40
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" ,Cuatro
 http://127.0.0.1:6878/ace/manifest.m3u8?id=de6527833ce8e62aa0af3e64891e6e1f250726e0
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/2048px-Telecinco_2024_Logo.svg.png" ,Telecinco
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Telecinco" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/09/Telecinco-Logo.png" ,Telecinco
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e53c497c3a56968bc11fa3771c813fc740e355e3	
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaSexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/1200px-LaSexta_2024_Logo.svg.png" ,La Sexta
