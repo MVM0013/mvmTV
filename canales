@@ -59,7 +59,7 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
@@ -187,15 +187,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1
 #EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,EuroSport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=98784fa0714190de289f42eb5b84e405df7e685a
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportArena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/512px-Sky_Sport_Arena_-_Logo_2020.svg.png?20200924143444" ,UK | Sky Sport Arena
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportFootball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/512px-Sky_Sport_Football_-_Logo_2020.svg.png?20200924143323" ,UK | Sky Sport Football
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportMainEvent" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/350?cb=20200924152245" ,UK | Sky Sport Main Event
-http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" ,UK | Sky Sport News
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
@@ -253,10 +244,14 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=c9c062941fbecb16ce29437f346ea7177d720
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png" ,FOX SPORTS 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/f/fe/FS3.png/revision/latest/scale-to-width-down/1920?cb=20250107192535" ,FOX SPORTS 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7cf437be950f3525e735be57c63f7824cab822c9
+
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTSPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" ,FOX SPORTS PREMIUM
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6994af284ecab2996f9b140ef44b8da8bfee0006
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" ,NBA TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
 
-
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ufcfightpass" tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" , UFC Fight Pass
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
