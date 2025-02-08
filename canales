@@ -13,7 +13,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=a6cfb25becd96cbe9d1929e0e560016beac40
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" ,Cuatro
 http://127.0.0.1:6878/ace/manifest.m3u8?id=de6527833ce8e62aa0af3e64891e6e1f250726e0
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Telecinco" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/09/Telecinco-Logo.png" ,Telecinco
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Telecinco" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e53c497c3a56968bc11fa3771c813fc740e355e3	
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaSexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/LaSexta_2024_Logo.svg/1200px-LaSexta_2024_Logo.svg.png" ,La Sexta
@@ -199,10 +199,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4d
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" ,UK | Sky Sport News
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports1" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Premier_Sports.png" ,UK | Premier Sports 1
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441" ,UK | Premier Sports 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/frtowu1600893109.png" ,UK | Premier Sports 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653" ,UK | Premier Sports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="PT|DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,PT | DAZN 1
@@ -241,10 +241,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=edb507e38394d614c9ff55805c9d354ae1321
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FR|beINSPORTS3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_3_France.png" ,FR | beIN SPORTS 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ESPN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" ,ESPN
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ESPN2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest?cb=20210609161318" ,ESPN 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" ,ESPN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=664eb5fe460b96941aed633959a845b185cd8394
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" ,FOX SPORTS 1
@@ -256,7 +256,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=cba8d369eac629b577750edb90370cd1c5fb0
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTSPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" ,FOX SPORTS PREMIUM
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6994af284ecab2996f9b140ef44b8da8bfee0006
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NBATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest?cb=20230210205248&path-prefix=es" ,NBA TV
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" ,NBA TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
 
 
