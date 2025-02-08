@@ -37,9 +37,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=a5e21f79ebd21c2562019ceefd9a7e21c8e2f
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=26c63851b7a0de9efed907571b19d342fc8d6765
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" ,DMAX
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjQxOTgyNjQsIm5iZiI6MTcyNDE5ODI2NCwiZXhwIjoxNzI0MTk4NjI0LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMTIwLjY3LjI0MCJ9.WzEv974U5S_c93pptVGlzBy_M1Cnx4eN1rclCaEpy2I/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
-
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="FactoríadeFicción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" ,Factoría de Ficción
 
 
