@@ -35,10 +35,9 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://tvnoov.com/fadoo/fdf.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Neox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" ,Neox
-https://tvup01.edge.milloh-cs.com/neox6/neox6.mpd
+https://tvnoov.com/fadoo/neox.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" ,Mega
-https://tvup01.edge.milloh-cs.com/mega6/mega6.mpd
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ANHQV" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2016/05/03/409AC806-3398-4C0A-BD6B-B1E019976466/57.jpg" ,Aquí no hay quién viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
