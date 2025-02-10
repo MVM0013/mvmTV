@@ -112,7 +112,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8677d339ecddd75165c0015025f598b621597
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+COPA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" ,M+ Copa del Rey 
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigadeCampeonesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones HD
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigadeCampeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=775abd8697715c48a357906d40734ccd2a10513c
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" ,M+ Liga de Campeones 2
@@ -163,7 +163,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5a412fd44a1f46f3446988ddeed658d861dd6
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones17" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP16.png" ,M+ Liga de Campeones 17
 http://127.0.0.1:6878/ace/manifest.m3u8?id=be4381d1d5203fc0c4879a097277bd7683235650
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="M+DeportesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes HD
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" ,M+ Deportes 2
@@ -211,7 +211,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportFootball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/512px-Sky_Sport_Football_-_Logo_2020.svg.png?20200924143323" ,UK | Sky Sport Football
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySports+" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png?imageManager=true&impolicy=resize&height=360" ,UK | Sky Sports +
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPlus" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png?imageManager=true&impolicy=resize&height=360" ,UK | Sky Sports Plus
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportMainEvent" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/350?cb=20200924152245" ,UK | Sky Sport Main Event
