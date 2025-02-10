@@ -35,10 +35,10 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Neox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" ,Neox
-
+https://tvnoov.com/fadoo/neox.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" ,Mega
-
+https://pluto.tv/es/live-tv/628751bb7154a40007168843
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ANHQV" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2016/05/03/409AC806-3398-4C0A-BD6B-B1E019976466/57.jpg" ,Aquí no hay quién viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
@@ -52,14 +52,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=14767834db41c572ab83b80f7eadc3ba78a2c
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=26c63851b7a0de9efed907571b19d342fc8d6765
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="TDP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" ,Teledeporte
+#EXTINF:-1 group-title="DEPORTES" tvg-id="TDP" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
-
-#EXTINF:-1 group-title="DEPORTES" tvg-id="GOLPLAY" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70wi1n1692441317.png" ,GOL PLAY
-https://core.golstadium.com/v1/media/24h-live-gol/manifest/index.m3u8?token=e4b8b489b17ac3a7299f36f779da4220
-
-#EXTINF:-1 group-title="DEPORTES" tvg-id="GOLSTADIUM" tvg-logo="https://img.golstadium.me/imgproxy/xs/plain/https://storage.googleapis.com/golstadium-pro/directus/gol/828f8f52-c174-4d96-ac91-7370bf3790cc.jpg@webp" ,GolStadium 
-https://d3j4mlwr9pf4hc.cloudfront.net/out/v1/5e737f5cb16e48afb0f56b62153d7a5d/index.mpd?Expires=1739251170&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kM2o0bWx3cjlwZjRoYy5jbG91ZGZyb250Lm5ldC9vdXQvdjEvNWU3MzdmNWNiMTZlNDhhZmIwZjU2YjYyMTUzZDdhNWQvaW5kZXgubXBkIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzM5MjUxMTcwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6Ijg0LjEyMC42Ny4yNDAvMzIifX19XX0_&Signature=JbUhqYWFkDEe3iyPJUbt8kRZ-9L6BO8ODJPUxOfSVN9FMrArgOmX7j4YReEZufvV0X~nCX25~QNOP3-9sXSZzaUDF8TjszPYqsWYkERyO0jP0GpMQerMVmGwex19Hw3D-GmFNF9RU16KDiueEfP1gq5yKlIOhMpZBHtiEzIsPEdUpVDSvcoMFkXtcsMhWki-l8aIfVLms6YrbkV1Z7c2xZ5ud9mDV1PyvbBAcTO5PqXs1FwyfH9cuMg5zc7lkM6bG-7jYNb0HQ5vd4hzUJHalWVDC8FZjdOSc1l0MHqU9fMkcscvsOox9iuhAD~jUZSKthBMzYMo4mIzi58-NDwZkQ__&Key-Pair-Id=APKAIKNFKJT4M3NREZWQ
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
