@@ -8,13 +8,13 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Antena3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" ,Antena 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a6cfb25becd96cbe9d1929e0e560016beac40887	
+https://tvup01.edge.milloh-cs.com/antena3hd/antena3hd.mpd
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" ,Cuatro
-https://tvnoov.com/fadoo/cuatro.m3u8
+https://tvup01.edge.milloh-cs.com/cuatro/cuatro.mpd
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Telecinco" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e53c497c3a56968bc11fa3771c813fc740e355e3	
+http://127.0.0.1:6878/ace/manifest.m3u8?id=61a37f4c54d697c588e3c4071e44dc0d	
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaSexta" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" ,La Sexta
 http://127.0.0.1:6878/ace/manifest.m3u8?id=906191eed84a42d83939fd150ee3c04834bc0533
