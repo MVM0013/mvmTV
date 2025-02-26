@@ -11,7 +11,7 @@ https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a6cfb25becd96cbe9d1929e0e560016beac40887	
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" ,Cuatro
-http://127.0.0.1:6878/ace/manifest.m3u8?id=de6527833ce8e62aa0af3e64891e6e1f250726e0
+https://tvnoov.com/fadoo/cuatro.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Telecinco" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e53c497c3a56968bc11fa3771c813fc740e355e3	
@@ -38,7 +38,7 @@ https://tvnoov.com/fadoo/fdf.m3u8
 https://tvnoov.com/fadoo/neox.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" ,Mega
-https://tvnoov.com/fadoo/mega.m3u8
+
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ANHQV" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2016/05/03/409AC806-3398-4C0A-BD6B-B1E019976466/57.jpg" ,Aquí no hay quién viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
