@@ -8,16 +8,16 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Antena3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" ,Antena 3
-
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2529dd2f8f925ba2f404cd8f7d64517f0ea6b471
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" ,Cuatro
-
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b359615ecc1eee51b142281324d3c2b7b5a99d14
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Telecinco" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco
-
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0b424088849ad1e59a2a2162c2cb089877778b13
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaSexta" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" ,La Sexta
-
+http://127.0.0.1:6878/ace/manifest.m3u8?id=706d6a63f0d721431969f9e2fe1c4abe7c34a8cb
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlus+" tvg-logo="https://atlantiamedia.es/wp-content/uploads/2023/03/movistar-plus.png" ,Movistar Plus+
 http://127.0.0.1:6878/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
@@ -44,19 +44,19 @@ https://tvnoov.com/fadoo/neox.m3u8
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+AcciónHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" , M+ Acción HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a5e21f79ebd21c2562019ceefd9a7e21c8e2f6a5	
+http://127.0.0.1:6878/ace/manifest.m3u8?id=03e3a046631f018a223eaeb700f91c0396b30ca4	
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Hits" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits
-http://127.0.0.1:6878/ace/manifest.m3u8?id=14767834db41c572ab83b80f7eadc3ba78a2ced0
+http://127.0.0.1:6878/ace/manifest.m3u8?id=226d067f3022a15bbc9332dce19c26a1d7bbc843
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=26c63851b7a0de9efed907571b19d342fc8d6765
+http://127.0.0.1:6878/ace/manifest.m3u8?id=eeea4f9de29fb23bb6db4c11b4e973f14bfe6bc0
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="TDP" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="GOLPLAY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" ,GOL PLAY
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f5be5fe6063db01a7587c37acf57fcadabea560a
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8286d07ed38f9d5512b7d16bb42272da6da8aec1
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
@@ -80,7 +80,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d1d9ec2361a6ac8edc0b2841866383768cc28
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
 #EXTINF:-1 group-title="MOTOR" tvg-id="DAZNF1" tvg-logo="https://jungle-team.com/wp-content/uploads/2021/02/daznformula.png" ,DAZN F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=61c1f3cf1d86a2789e985818fe2bd398048d047f
+http://127.0.0.1:6878/ace/manifest.m3u8?id=44c12ecb7b00a961f3c3f80f1edea7f8feedec59
 
 #EXTINF:-1 group-title="MOTOR" tvg-id="F1TV14OnBoard" tvg-logo="https://soymotor.com/sites/default/files/2024-02/fernando-alonso-2024.png" ,F1 TV 14 On Board | Fernando Alonso | Aston Martin
 
