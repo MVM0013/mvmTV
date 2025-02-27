@@ -209,7 +209,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=0ab6bab2334d442b68671cc86c4243f2b0bf1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,EuroSport 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d23a8e8d30e8c7492618f2b634a86c4ad202cc13
+
+#EXTINF:-1 group-title="MOTOR" tvg-id="F1TV" tvg-logo="https://support.formula1.com/resource/1673436917000/F1LogoMicroWhite" ,F1 TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=413cb4d79842a7a2da420e9f59b00728992730b2
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" ,UK | Sky Sport News
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
