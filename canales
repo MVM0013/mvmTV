@@ -52,7 +52,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=de88ed8716612d9c548df63a168fbdd96843d
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55b5160d23f3e90a8d5beffabb3cc2ad59d836e8
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Hits" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+HitsHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=28dc545c00d47a620bc7243657de5a85811f1254
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
