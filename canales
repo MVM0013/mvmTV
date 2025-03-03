@@ -61,7 +61,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=62b6cdc347e9b5f5aff089055365805e4d20d
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="STARChannel" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" ,STAR Channel
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b3951daae45f00fc1e2155c02fc6053bc143ff5b
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalHollywoodHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" ,Canal Hollywood HD
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalHollywoodHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" ,Canal Hollywood HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=98e919510abe481094a68ae135c432998bf8fa20
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="TDP" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte
