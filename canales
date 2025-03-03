@@ -38,7 +38,7 @@ https://tvnoov.com/fadoo/fdf.m3u8
 https://tvnoov.com/fadoo/neox.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" ,Mega
-
+http://127.0.0.1:6878/ace/manifest.m3u8?id=73417f9304aca138f2c72f02fc2444afb214c782
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/2560px-DMAX_-_Logo_2016.svg.png" ,DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA2NDg4NTIsIm5iZiI6MTc0MDY0ODg1MiwiZXhwIjoxNzQwNjQ5MjEyLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMTIwLjY3LjI0MCJ9.WDv6uhhM6GxLrFEgv6FCjbpiKSaFIw7zRQOGwjdNhfs/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
@@ -49,11 +49,20 @@ https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+AcciónHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" , M+ Acción HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=de88ed8716612d9c548df63a168fbdd96843dd20	
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55b5160d23f3e90a8d5beffabb3cc2ad59d836e8
+
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Hits" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits
 http://127.0.0.1:6878/ace/manifest.m3u8?id=28dc545c00d47a620bc7243657de5a85811f1254
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=62b6cdc347e9b5f5aff089055365805e4d20d41e
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="STARChannel" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" ,STAR Channel
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b3951daae45f00fc1e2155c02fc6053bc143ff5b
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalHollywoodHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" ,Canal Hollywood HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=98e919510abe481094a68ae135c432998bf8fa20
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="TDP" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
