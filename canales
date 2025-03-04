@@ -140,7 +140,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=0adc3b525508b4a74ce65685870894a77401a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4d754e0b6b583d01668de8544c43cad6a1b253da
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" ,M+ Liga de Campeones 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=01152274037c5f7155489e0a977cbde71a61290c
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7a5512d101742eb418dd0e3ffbd2bf6c43c73452
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" ,M+ Liga de Campeones 5
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cc910aee690f70190b04920d61e39da5a6d0a057
