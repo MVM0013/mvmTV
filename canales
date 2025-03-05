@@ -146,43 +146,31 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4d754e0b6b583d01668de8544c43cad6a1b25
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" ,M+ Liga de Campeones 5
-http://127.0.0.1:6878/ace/manifest.m3u8?id=cc910aee690f70190b04920d61e39da5a6d0a057
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" ,M+ Liga de Campeones 6
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7aded197b3e03057d5b27a27db981ef5eefd95fd
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" ,M+ Liga de Campeones 7
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2e2ef8a653d36192d881a438c0578381ff39b5ea
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" ,M+ Liga de Campeones 8
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7ca2282e0b700429e991152a82427a37583c5f5f
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones9" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" ,M+ Liga de Campeones 9
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2d7c4cfb3987b652a779afc894cca2fccbbacf21
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones10" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" ,M+ Liga de Campeones 10
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c056f9e180cd7d40963129a17ff54f4ee8259353
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones11" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" ,M+ Liga de Campeones 11
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a12a16f74cf12799d4475ae867dc61eb60e1ba2e
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones12" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" ,M+ Liga de Campeones 12
-http://127.0.0.1:6878/ace/manifest.m3u8?id=df7d145fcaf0566db4098d2f10236185d92bc9fd
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" ,M+ Liga de Campeones 13
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones14" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP13.png" ,M+ Liga de Campeones 14
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b149283faf12a9e574380c7ad1eb227261eaca85
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones15" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP14.png" ,M+ Liga de Campeones 15
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bb8506403e19f80ab66e431f2a4c74089a909d06
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones16" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP15.png" ,M+ Liga de Campeones 16
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5a412fd44a1f46f3446988ddeed658d861dd6b70
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones17" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP16.png" ,M+ Liga de Campeones 17
-http://127.0.0.1:6878/ace/manifest.m3u8?id=be4381d1d5203fc0c4879a097277bd7683235650
+
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
