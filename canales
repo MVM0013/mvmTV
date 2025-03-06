@@ -265,7 +265,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|SkySportBundesliga" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-bundesliga-1.png" ,DE | Sky Sport Bundesliga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DE | DAZN 
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DE | DAZN 
 http://127.0.0.1:6878/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/DAZN_2.png/120px-DAZN_2.png" ,DE | DAZN 2
