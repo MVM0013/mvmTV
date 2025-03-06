@@ -232,7 +232,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/premier-sports-2.png" ,UK | Premier Sports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports1" tvg-logo="https://cdn.worldvectorlogo.com/logos/tnt-sports-logo.svg" ,UK | TNT Sports 1
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports1" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_06/large.TNTSportsblanco.png.3bf2299320c437aa71b172fbed1c837c.png" ,UK | TNT Sports 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" ,UK | TNT Sports 2
