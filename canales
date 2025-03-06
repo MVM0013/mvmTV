@@ -98,7 +98,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7e90956539f4e1318a63f3960e4f75c7c7c5a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=073d33a5e5270399154bb251fcc95f99c0741264
 
 #EXTINF:-1 group-title="MOTOR" tvg-id="F1TV14OnBoard" tvg-logo="https://soymotor.com/sites/default/files/2024-02/fernando-alonso-2024.png" ,F1 TV 14 On Board | Fernando Alonso | Aston Martin
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
 
 #EXTINF:-1 group-title="MOTOR" tvg-id="F1TV55OnBoard" tvg-logo="https://www.horajaen.com/wp-content/uploads/2019/08/CARLOS-SAINZ.png" ,F1 TV 55 On Board | Carlos Sainz | Williams
 
