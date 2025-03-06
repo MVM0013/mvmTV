@@ -40,6 +40,9 @@ https://tvnoov.com/fadoo/neox.m3u8
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ANHQV" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2016/05/03/409AC806-3398-4C0A-BD6B-B1E019976466/57.jpg" ,Aquí no hay quién viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
+#EXTINF:-1 tvg-id="628751bb7154a40007168843" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG.png" group-title="Animación" tvg-chno="600", South Park
+https://stitcher.pluto.tv/stitch/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=web&servertSideAds=false&deviceM ake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" ,Mega
 http://127.0.0.1:6878/ace/manifest.m3u8?id=73417f9304aca138f2c72f02fc2444afb214c782
 
