@@ -232,13 +232,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/premier-sports-2.png" ,UK | Premier Sports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" ,UK | TNTSports
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/TNT_Sports_%282023%29.svg/revision/latest?cb=20230407001905" ,UK | TNT Sports
 http://127.0.0.1:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports2" tvg-logo="https://sports-tv-channels.click/assets/images/tnt-sports-2-logo.png" ,UK | TNTSports 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest?cb=20230717230828" ,UK | TNT Sports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports3" tvg-logo="https://freeshot.live/upload/source/TNT-Sports-3-logo.png" ,UK | TNTSports 3
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest?cb=20230717230836" ,UK | TNT Sports 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5f966c123759de46dff29c379266b7a403452033
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="PT|DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,PT | DAZN 1
