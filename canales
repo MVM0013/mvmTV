@@ -232,13 +232,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/premier-sports-2.png" ,UK | Premier Sports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports1" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_06/large.TNTSportsblanco.png.3bf2299320c437aa71b172fbed1c837c.png" ,UK | TNT Sports 1
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports1" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=png&p=true&q=60&w=360" ,UK | TNT Sports 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" ,UK | TNT Sports 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports2" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png&p=true&q=60&w=360" ,UK | TNT Sports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" ,UK | TNT Sports 3
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports3" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=jpg&p=true&q=70&w=1920" ,UK | TNT Sports 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5f966c123759de46dff29c379266b7a403452033
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="PT|DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,PT | DAZN 1
