@@ -265,13 +265,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|SkySportBundesliga" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-bundesliga-1.png" ,DE | Sky Sport Bundesliga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZNBUNDESLIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DE | DAZN BUNDESLIGA 
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DE | DAZN 
 http://127.0.0.1:6878/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DAZNBUNDESLIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/DAZN_2.png/120px-DAZN_2.png" ,DAZN BUNDESLIGA 
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/DAZN_2.png/120px-DAZN_2.png" ,DE | DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/DAZN_3.png/120px-DAZN_3.png" ,DE | DAZN 3
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/DAZN_3.png/120px-DAZN_3.png" ,DE | DAZN 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f2dc625a32ba3437100b1261fd0751d83d64ce91
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FR|beINSPORTS1" tvg-logo="https://prod-media.beinsports.com/image/85029984d97fda2dd293f3c7d6cf0c0d.128.png?ver=12-01-2025" ,FR | beIN SPORTS 1
