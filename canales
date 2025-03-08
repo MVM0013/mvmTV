@@ -113,7 +113,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0
 http://127.0.0.1:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga2HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN LaLiga 2 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
+http://127.0.0.1:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotionHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV HyperMotion HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
