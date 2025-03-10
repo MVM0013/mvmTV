@@ -23,7 +23,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=c5b1bb99bdee549885d4d680cafbdd0a02623
 http://127.0.0.1:6878/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos
-http://127.0.0.1:6878/ace/manifest.m3u8?id=12ba546d229bc39f01c3c18988a034b215fe6adb	
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a1660d711184fa701bf1c88395e3b2d43ddca83f
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ÀPunt" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" ,À Punt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/profile_0/chunklist_dvr.m3u8
@@ -209,10 +209,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=11078aceacd1be758f4c953a437fc1ecb8eca
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0ab6bab2334d442b68671cc86c4243f2b0bf1290
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,EuroSport 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+http://127.0.0.1:6878/ace/manifest.m3u8?id=95120cee8223e9af839994ecc2b96aef05f8a151
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,EuroSport 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d23a8e8d30e8c7492618f2b634a86c4ad202cc13
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" ,UK | Sky Sport News
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
