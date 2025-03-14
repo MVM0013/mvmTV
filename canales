@@ -286,9 +286,6 @@ http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8&
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="beINSPORTSXTRAñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" ,beIN SPORTS XTRA ñ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ARG|TNTSportPremium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TNTSportsPremium2024.svg/revision/latest/scale-to-width-down/350?cb=20240601173549&path-prefix=es" ,ARG | TNT Sport Premium
-https://ddy6new.koskoros.ru/ddy6/premium388/mono.m3u8
-
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ARG|ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,ARG | ESPN
 https://ddy6new.koskoros.ru/ddy6/premium149/mono.m3u8
 
@@ -315,6 +312,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781e
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="F1TV" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" ,F1 TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d7374aa7720f4c9639c72349716c97f19407d52d
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|UFCFightPass" tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" ,US | UFC Fight Pass
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f74dcf44f57fc71cb4b0719b3342e569eba50c51
