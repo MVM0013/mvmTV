@@ -215,13 +215,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=95120cee8223e9af839994ecc2b96aef05f8a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" ,UK | Sky Sport News
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportFootball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/512px-Sky_Sport_Football_-_Logo_2020.svg.png?20200924143323" ,UK | Sky Sport Football
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPlus" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png?imageManager=true&impolicy=resize&height=360" ,UK | Sky Sports Plus
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportMainEvent" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/350?cb=20200924152245" ,UK | Sky Sport Main Event
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
@@ -321,7 +321,3 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d7374aa7720f4c9639c72349716c97f19407d
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|UFCFightPass" tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" ,US | UFC Fight Pass
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f74dcf44f57fc71cb4b0719b3342e569eba50c51
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="F1TV" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" ,calcio
-https://windnew.koskoros.ru/wind/premium870/mono.m3u8
-
