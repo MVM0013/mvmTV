@@ -41,7 +41,6 @@ https://tvnoov.com/fadoo/neox.m3u8
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" ,Mega
-http://127.0.0.1:6878/ace/manifest.m3u8?id=73417f9304aca138f2c72f02fc2444afb214c782
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/2560px-DMAX_-_Logo_2016.svg.png" ,DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA2NDg4NTIsIm5iZiI6MTc0MDY0ODg1MiwiZXhwIjoxNzQwNjQ5MjEyLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMTIwLjY3LjI0MCJ9.WDv6uhhM6GxLrFEgv6FCjbpiKSaFIw7zRQOGwjdNhfs/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
@@ -53,7 +52,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=cd485af78cf86934d77cf867f73fe7f5cd329
 http://127.0.0.1:6878/ace/manifest.m3u8?id=de88ed8716612d9c548df63a168fbdd96843dd20	
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bed9a9fc8e9d07a65591c0e8c31cb558a029f985
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+HitsHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=28dc545c00d47a620bc7243657de5a85811f1254
@@ -62,7 +60,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=28dc545c00d47a620bc7243657de5a85811f1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=62b6cdc347e9b5f5aff089055365805e4d20d41e
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="STARChannel" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" ,STAR Channel
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b3951daae45f00fc1e2155c02fc6053bc143ff5b
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalHollywoodHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" ,Canal Hollywood HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=98e919510abe481094a68ae135c432998bf8fa20
@@ -196,6 +193,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI9.png" ,M+ Deportes 8
 plugin://script.module.horus?action=play&id=b779e6056975e3682a804d47cbd5cc806217f64d
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlus+2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png" ,Movistar Plus+ 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0ab6bab2334d442b68671cc86c4243f2b0bf1290
+
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+eEllasV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" ,M+ Ellas Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d8c2ed470e847154a88f011137cc206319f6bed5
 
@@ -204,9 +204,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f41f1096862767289620be5bd85727f946a43
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Golf2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png", M+ Golf 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=11078aceacd1be758f4c953a437fc1ecb8eca730
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlus+2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png" ,Movistar Plus+ 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=0ab6bab2334d442b68671cc86c4243f2b0bf1290
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,EuroSport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=95120cee8223e9af839994ecc2b96aef05f8a151
@@ -220,11 +217,11 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d06
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportFootball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/512px-Sky_Sport_Football_-_Logo_2020.svg.png?20200924143323" ,UK | Sky Sport Football
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPlus" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png?imageManager=true&impolicy=resize&height=360" ,UK | Sky Sports Plus
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportMainEvent" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/350?cb=20200924152245" ,UK | Sky Sport Main Event
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPlus" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png?imageManager=true&impolicy=resize&height=360" ,UK | Sky Sports Plus
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports1" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/premier-sports.png" ,UK | Premier Sports 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
@@ -310,14 +307,14 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7cf437be950f3525e735be57c63f7824cab82
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTSPREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" ,FOX SPORTS PREMIUM
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6994af284ecab2996f9b140ef44b8da8bfee0006
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|NBATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/NBA_TV.svg/revision/latest/scale-to-width-down/250?cb=20171022124352" ,US | NBA TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
-
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
-
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="F1TV" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" ,F1 TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d7374aa7720f4c9639c72349716c97f19407d52d
 
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|NBATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/NBA_TV.svg/revision/latest/scale-to-width-down/250?cb=20171022124352" ,US | NBA TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
+
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|UFCFightPass" tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" ,US | UFC Fight Pass
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f74dcf44f57fc71cb4b0719b3342e569eba50c51
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
