@@ -20,7 +20,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=154c6f876ddf1d9c87880eae0d0442335ec15
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c5b1bb99bdee549885d4d680cafbdd0a026239f5
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlus+" tvg-logo="https://atlantiamedia.es/wp-content/uploads/2023/03/movistar-plus.png" ,Movistar Plus+
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
+http://127.0.0.1:6878/server/api?method=open_in_player&player_id=bdb0d4748cdf1d9886ced65f3c87b5dc0d9d8361&content_id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a1660d711184fa701bf1c88395e3b2d43ddca83f
