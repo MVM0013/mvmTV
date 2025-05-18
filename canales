@@ -100,7 +100,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=2c6e4c897661e6b0257bfe931b66d20b2ec76
 http://127.0.0.1:6878/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTV3HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,M+ LaLiga TV 3 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+https://windnew.newkso.ru/wind/premium68/mono.m3u8
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTV4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" ,M+ LaLiga TV 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
