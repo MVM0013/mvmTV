@@ -215,13 +215,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4d
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPlus" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png?imageManager=true&impolicy=resize&height=360" ,UK | Sky Sports Plus
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPremierLeague" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest?cb=20200924152906" ,UK | Sky Sports Premier League
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|SkySportsPremierLeague" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest?cb=20200924152906" ,DE | Sky Sports Premier League
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports1" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/premier-sports.png" ,UK | Premier Sports 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|PremierSports2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/premier-sports-2.png" ,DE | Premier Sports 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/premier-sports-2.png" ,UK | Premier Sports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports1" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=png&p=true&q=60&w=360" ,UK | TNT Sports 1
