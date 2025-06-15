@@ -32,7 +32,7 @@ https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/60579
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="FactoríadeFicción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" ,Factoría de Ficción
-https://tvnoov.com/fadoo/fdf.m3u8
+http://185.189.225.150:85/fdf/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Neox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" ,Neox
 https://atres-live.atresmedia.com/e4e72759c8bf8e6763faed4a215ee0bd3646fb72_ES_1749982224_1750010964/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
@@ -41,6 +41,7 @@ https://atres-live.atresmedia.com/e4e72759c8bf8e6763faed4a215ee0bd3646fb72_ES_17
 https://fast-channels.atresmedia.com/2ccc5a4b50bdb938cb57c8cca4f02d1086374559/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" ,Mega
+http://185.189.225.150:85/mega/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/2560px-DMAX_-_Logo_2016.svg.png" ,DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyMjEwNTAsIm5iZiI6MTc0OTIyMTA1MCwiZXhwIjoxNzQ5MjIxNDEwLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMTIwLjczLjEyMyJ9.4G-t0XqgcfP_kMV9U_bdntyN2Nfx6fJrJeDeRySe9sk/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
@@ -122,9 +123,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f4
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="FEFTV1Grupo2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/FEF_TV_Logo.png" ,FEF TV 1 Grupo 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf
 
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="M+COPA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" ,M+ Copa del Rey 
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
-
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigadeCampeonesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
@@ -162,7 +160,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5a8323792bb3d48f71d1f690d3f5ec4ad5b48
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones16" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP15.png" ,M+ Liga de Campeones 16
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones17" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP16.png" ,M+ Liga de Campeones 17
-
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+DeportesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
@@ -309,7 +306,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d7374aa7720f4c9639c72349716c97f19407d
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|UFCFightPass" tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" ,US | UFC Fight Pass
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f74dcf44f57fc71cb4b0719b3342e569eba50c51
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
