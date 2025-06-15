@@ -215,8 +215,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4d
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPlus" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png?imageManager=true&impolicy=resize&height=360" ,UK | Sky Sports Plus
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPremierLeague" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png" ,UK | Sky Sports Premier League
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f955ccfcc5a2b62238ff73a8030eeb035c38aaa2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPremierLeague" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" ,UK | Sky Sports Premier League
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e33fb63ba12cf45bcee7757c8520f561ad27a39f
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports1" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/premier-sports.png" ,UK | Premier Sports 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
