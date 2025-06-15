@@ -48,15 +48,15 @@ https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJp
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Discovery" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" ,Discovery
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+AcciónHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" , M+ Acción HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4879825ab2491980e93ea2d8c4d02e095eacf670
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+HitsHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2752dee68a7faa9c847216dc22a6821661db891a
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="STARChannel" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" ,STAR Channel
 
