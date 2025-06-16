@@ -221,19 +221,19 @@ https://community.wideiptv.top/skysportsaction/tracks-v1/index.fmp4.m3u8?token=1
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1289.png" ,UK | Premier Sports 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports2" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/premier-sports-2.png" ,UK | Premier Sports 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1290.png" ,UK | Premier Sports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3661.png" ,UK | TNT Sports 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports2" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png&p=true&q=60&w=360" ,UK | TNT Sports 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3663.png" ,UK | TNT Sports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports3" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=jpg&p=true&q=70&w=1920" ,UK | TNT Sports 3
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports3" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb5032.png" ,UK | TNT Sports 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5f966c123759de46dff29c379266b7a403452033
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports4" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/174fef29-55ec-48ee-af18-bc4a3011287a.png?bf=0&f=png&p=true&q=60&w=360" ,UK | TNT Sports 4
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|TNTSports4" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3141.png" ,UK | TNT Sports 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="PT|DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,PT | DAZN 1
@@ -255,10 +255,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad8
 http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|SkySportBundesliga" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-bundesliga-1.png" ,DE | Sky Sport Bundesliga
-http://127.0.0.1:6878/ace/manifest.m3u8?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+https://community.wideiptv.top/SkySportsBundesliga/tracks-v1/index.fmp4.m3u8?token=6a804a59bf74e8ca62864e88b2167cbab6a42a02-57bac68347b9d5a04b26c61d1f205293-1750091393-1750080593
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DE | DAZN 1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229
+https://www.freeshot.live/upload/source/DAZN-1-logo.png
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/DAZN_2.png/120px-DAZN_2.png" ,DE | DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
