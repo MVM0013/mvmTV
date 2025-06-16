@@ -301,7 +301,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7cf437be950f3525e735be57c63f7824cab82
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6994af284ecab2996f9b140ef44b8da8bfee0006
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="F1TV" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" ,F1 TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d7374aa7720f4c9639c72349716c97f19407d52d
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8271af37ec42ed9b66c2af472e782998d197dc86
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|NBATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/NBA_TV.svg/revision/latest/scale-to-width-down/250?cb=20171022124352" ,US | NBA TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
