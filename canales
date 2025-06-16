@@ -71,7 +71,7 @@ https://community.wideiptv.top/DAZNLaLiga/index.fmp4.m3u8?token=4b25f9f3ee01823a
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVBARHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" ,LaLiga TV BAR HD
 
 
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DAZN 1 HD
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN1HD" tvg-logo="https://www.freeshot.live/upload/source/DAZN-1-logo.png" ,DAZN 1 HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/DAZN_2.png/120px-DAZN_2.png" ,DAZN 2 HD
@@ -258,7 +258,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94
 https://community.wideiptv.top/SkySportsBundesliga/tracks-v1/index.fmp4.m3u8?token=6a804a59bf74e8ca62864e88b2167cbab6a42a02-57bac68347b9d5a04b26c61d1f205293-1750091393-1750080593
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DE | DAZN 1
-https://www.freeshot.live/upload/source/DAZN-1-logo.png
+
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/DAZN_2.png/120px-DAZN_2.png" ,DE | DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
