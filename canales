@@ -258,7 +258,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94
 https://community.wideiptv.top/SkySportsBundesliga/tracks-v1/index.fmp4.m3u8?token=6a804a59bf74e8ca62864e88b2167cbab6a42a02-57bac68347b9d5a04b26c61d1f205293-1750091393-1750080593
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DE | DAZN 1
-
+http://127.0.0.1:6878/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/DAZN_2.png/120px-DAZN_2.png" ,DE | DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
@@ -279,10 +279,8 @@ http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8&
 http://127.0.0.1:6878/ace/manifest.m3u8?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ARG|ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,ARG | ESPN
-https://ddy6new.koskoros.ru/ddy6/premium149/mono.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ARG|ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" ,ARG | ESPN 2
-https://windnew.koskoros.ru/wind/premium150/mono.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,US | ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
