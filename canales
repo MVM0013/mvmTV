@@ -159,7 +159,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5a8323792bb3d48f71d1f690d3f5ec4ad5b48
 http://127.0.0.1:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes2HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" ,M+ Deportes 2 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=911b6c35f4802fd358b78b328528af4650eca020	
+http://127.0.0.1:6878/ace/manifest.m3u8?id=edd06f11e1cef292a1d795e15207ef2f580e298c	
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" ,M+ Deportes 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=985896872c52d04030c112ca99584046d022a349
