@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La1" tvg-logo="https://i.imgur.com/1jDS9UC.png", La 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b7b83ac0d5e7e04a0f6538f5474745d90f8e3d59
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La2" tvg-logo="https://i.imgur.com/3NwzqoB.png", La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
@@ -56,6 +56,7 @@ https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJp
 http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cdac68c671cc9157c3fc55d7797d281ff32bedff
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+HitsHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2752dee68a7faa9c847216dc22a6821661db891a
