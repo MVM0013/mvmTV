@@ -222,13 +222,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7e1523ccfaac00800e67bd0b97c428810104b
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportMainEvent" tvg-logo="https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png" ,UK | Sky Sport Main Event
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPlus" tvg-logo="" ,UK | Sky Sports Plus
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPlus" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png?imageManager=true&impolicy=resize&height=360" ,UK | Sky Sports Plus
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsMix" tvg-logo="" ,UK | Sky Sports Mix
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsMix" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" ,UK | Sky Sports Mix
 https://community.wideiptv.top/skysportsmixuk/tracks-v1/index.fmp4.m3u8?token=07426ca23b0619193515bbc6f043a4179d28457d-10831957c373ffa37a3026d649ae7ab2-1750561210-1750550410
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsAction" tvg-logo="" ,UK | Sky Sports Action
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsAction" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2017/07/Sky-Sports-Action-FI.png" ,UK | Sky Sports Action
 https://community.wideiptv.top/skysportsaction/tracks-v1/index.fmp4.m3u8?token=8805c8aad5fb2e5ae7fcbbc88d7fe931fe146186-db084e581a1d10cd458ca3aed6d7ddeb-1750561213-1750550413
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1289.png" ,UK | Premier Sports 1
@@ -267,7 +267,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad8
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="PT|DAZN6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/DAZN_6.png/120px-DAZN_6.png" ,PT | DAZN 6
 http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|SkySportBundesliga" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-bundesliga-1.png" ,DE | Sky Sport Bundesliga
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|SkySportBundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/2560px-Sky_Sport_Bundesliga_2020.svg.png" ,DE | Sky Sport Bundesliga
 https://community.wideiptv.top/SkySportsBundesliga/tracks-v1/index.fmp4.m3u8?token=6a804a59bf74e8ca62864e88b2167cbab6a42a02-57bac68347b9d5a04b26c61d1f205293-1750091393-1750080593
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DE | DAZN 1
