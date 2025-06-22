@@ -72,7 +72,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=102bcb79ca391e37ac1fc9ee77dc53440d0a5
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" , M+ Drama HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ee1a0185a6a5dc2b7b7ff4e2bda4ae3892cf94ef
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c366d103a8c93469ca43e481900a7d23def9c2ad
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9ea64600ac7f188a57d14e08f6e3c1055bbb7f1a
