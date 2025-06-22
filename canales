@@ -76,8 +76,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=9ea64600ac7f188a57d14e08f6e3c1055bbb7
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLigaHD" tvg-logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN_LaLiga/contain/center/center/none/85/68/56/png/image" ,DAZN LaLiga HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d10a14db9cdba08c05b475071de68b86a400e35b
 
-https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png
-
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVBARHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" ,LaLiga TV BAR HD
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DAZN 1 HD
