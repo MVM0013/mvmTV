@@ -34,6 +34,9 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="DEPORTES" tvg-id="TDP" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-id="GOLPLAY" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" ,GOL PLAY
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
+
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="FactoríadeFicción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" ,Factoría de Ficción
 http://185.189.225.150:85/fdf/index.m3u8
 
