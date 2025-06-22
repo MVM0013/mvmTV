@@ -67,10 +67,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=ee1a0185a6a5dc2b7b7ff4e2bda4ae3892cf9
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2752dee68a7faa9c847216dc22a6821661db891a
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD
-https://community.wideiptv.top/DSTVLALIGA/tracks-v1/index.fmp4.m3u8?token=f1ea3717525f1f9fb50f09e494d61580da291dcb-8e39ca431f304ac9c947f11f521792ba-1750001405-1749990605
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d10a14db9cdba08c05b475071de68b86a400e35b
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD
-https://community.wideiptv.top/DAZNLaLiga/index.fmp4.m3u8?token=4b25f9f3ee01823ab69b6a2bd1c02d3e9d94e09e-6b25c972e8833b247714bf016278dc39-1749999886-1749989086
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9ea64600ac7f188a57d14e08f6e3c1055bbb7f1a
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVBARHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" ,LaLiga TV BAR HD
 
@@ -212,6 +212,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPremierLeague" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4010.png" ,UK | Sky Sports Premier League
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsF1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png/revision/latest?cb=20220620061410" ,UK | Sky Sports F1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportMainEvent" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4002.png" ,UK | Sky Sport Main Event
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
