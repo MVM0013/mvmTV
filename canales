@@ -52,12 +52,12 @@ https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJp
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AMCHD" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" ,AMC HD
 http://vegafibratv.com:8085/AMC/index.m3u8
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Estrenos HD
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos HD
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+HitsHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2752dee68a7faa9c847216dc22a6821661db891a
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Originales HD
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
