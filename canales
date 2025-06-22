@@ -201,34 +201,34 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=11078aceacd1be758f4c953a437fc1ecb8eca
 #EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport1" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/09/72416049-adbd-4d87-942d-e81bc7b34349.png?bf=0&f=png&p=true&q=60&w=360" ,EuroSport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,EuroSport 2
+#EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport2" tvg-logo="https://eu1-prod-images.disco-api.com/2021/09/30/fa1e397e-9a45-408e-b001-f8013f0ef433.png?bf=0&f=png&p=true&q=60&w=360" ,EuroSport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0585e09bb8ac9720e4c11934f1b184e309291551
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="FIFA+" tvg-logo="https://contentful-asset-proxy.sd.indazn.com/vhp9jnid12wf/5pENuN0XjAKudBfwYDvEEX/6baaa801c7a72ebb2e72e7a2ad11364e/FIFA_HeroLogo-3.png?fm=webp&q=100" ,FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportNews" tvg-logo="https://e0.365dm.com/tvlogos/channels/1314-Logo.svg?U2t5IFNwb3J0cyBOZXdz" ,UK | Sky Sport News
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportNews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_News_2020.svg/revision/latest?cb=20200924152703" ,UK | Sky Sport News
 https://community.wideiptv.top/skysportsnews/tracks-v1/index.fmp4.m3u8?token=cb8ba08b7e7b3f6649e7c70b3928e4b7b29a9120-b00cbd4a52fb889009be2d3d8b964874-1750561216-1750550416
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportFootball" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.svg?U2t5IFNwb3J0cyBGb290YmFsbA==" ,UK | Sky Sport Football
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportFootball" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest?cb=20200924152526" ,UK | Sky Sport Football
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPremierLeague" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.svg?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" ,UK | Sky Sports Premier League
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPremierLeague" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest?cb=20200924152906" ,UK | Sky Sports Premier League
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsF1" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.svg?U2t5IFNwb3J0cyBGMQ==" ,UK | Sky Sports F1
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsF1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest?cb=20200924152412" ,UK | Sky Sports F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportMainEvent" tvg-logo="https://e0.365dm.com/tvlogos/channels/1301-Logo.svg?U2t5IFNwb3J0cyBNYWluIEV2ZW50" ,UK | Sky Sport Main Event
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportMainEvent" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest?cb=20200924152245" ,UK | Sky Sport Main Event
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPlus" tvg-logo="https://e0.365dm.com/tvlogos/channels/3839-Logo.svg?U2t5IFNwb3J0cys=" ,UK | Sky Sports Plus
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsPlus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sky_Sports%2B.svg/revision/latest?cb=20240808030609" ,UK | Sky Sports Plus
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsMix" tvg-logo="https://e0.365dm.com/tvlogos/channels/4091-Logo.svg?U2t5IFNwb3J0cyBNaXg=" ,UK | Sky Sports Mix
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsMix" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Mix_2017.svg/revision/latest?cb=20170718104658" ,UK | Sky Sports Mix
 https://community.wideiptv.top/skysportsmixuk/tracks-v1/index.fmp4.m3u8?token=07426ca23b0619193515bbc6f043a4179d28457d-10831957c373ffa37a3026d649ae7ab2-1750561210-1750550410
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsAction" tvg-logo="https://e0.365dm.com/tvlogos/channels/1333-Logo.svg?U2t5IFNwb3J0cyBBY3Rpb24=" ,UK | Sky Sports Action
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsAction" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Action_2021.svg/revision/latest?cb=20210704201429" ,UK | Sky Sports Action
 https://community.wideiptv.top/skysportsaction/tracks-v1/index.fmp4.m3u8?token=8805c8aad5fb2e5ae7fcbbc88d7fe931fe146186-db084e581a1d10cd458ca3aed6d7ddeb-1750561213-1750550413
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1289.png" ,UK | Premier Sports 1
