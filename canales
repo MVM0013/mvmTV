@@ -198,7 +198,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=f41f1096862767289620be5bd85727f946a43
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Golf2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png", M+ Golf 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=11078aceacd1be758f4c953a437fc1ecb8eca730
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" ,EuroSport 1
+#EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport1" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/09/72416049-adbd-4d87-942d-e81bc7b34349.png?bf=0&f=png&p=true&q=60&w=360" ,EuroSport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,EuroSport 2
