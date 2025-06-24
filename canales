@@ -8,16 +8,16 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Antena3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" ,Antena 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
+http://185.189.225.150:85/Antena3HD/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" ,Cuatro
-http://127.0.0.1:6878/ace/manifest.m3u8?id=18f63b299de66029e17dc35e12f6c244e1979a91
+http://185.189.225.150:85/CuatroHD/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/1024px-Telecinco_2024_Logo.svg.png" ,Telecinco
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3d376333ee90d6db3d413fc5764ef635882076f5
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaSexta" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" ,La Sexta
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1c6486082949172d1ffd318db8fb965dd5af7e31
+http://185.189.225.150:85/LaSexta/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlus+" tvg-logo="https://atlantiamedia.es/wp-content/uploads/2023/03/movistar-plus.png" ,Movistar Plus+
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
@@ -70,6 +70,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=cf6ffdfa3c51268c0bd216da6b275fb866160
 http://127.0.0.1:6878/ace/manifest.m3u8?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c366d103a8c93469ca43e481900a7d23def9c2ad
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" , M+ Drama HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c366d103a8c93469ca43e481900a7d23def9c2ad
