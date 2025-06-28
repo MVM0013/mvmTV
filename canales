@@ -80,7 +80,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=c366d103a8c93469ca43e481900a7d23def9c
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1fdde474d884b0bb73342133a1db520ec35cec8f
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=9ea64600ac7f188a57d14e08f6e3c1055bbb7f1a
+http://127.0.0.1:6878/ace/manifest.m3u8?id=21e9665716b55d61bf7fe5a8f91a5ea8249d8047
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d10a14db9cdba08c05b475071de68b86a400e35b
