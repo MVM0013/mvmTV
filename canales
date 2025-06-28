@@ -62,17 +62,22 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=cdac68c671cc9157c3fc55d7797d281ff32be
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2752dee68a7faa9c847216dc22a6821661db891a
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=1f6a00455c0eb5bf99f63c88edfc155c3272b67a
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+DocumentalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MDOCHD" ,M+ Documentales HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=063319416d537a176dc61f99556b287f651dbfc4
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+AcciónHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" , M+ Acción HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5e188434344241c850ba4c9f602b67a5c6408007
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c366d103a8c93469ca43e481900a7d23def9c2ad
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" , M+ Drama HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=1fdde474d884b0bb73342133a1db520ec35cec8f
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9ea64600ac7f188a57d14e08f6e3c1055bbb7f1a
