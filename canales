@@ -1,8 +1,6 @@
 #EXTM3U player-buffer="30" url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_color.xml.gz"
 
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La1" tvg-logo="https://i.imgur.com/1jDS9UC.png", La 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La2" tvg-logo="https://i.imgur.com/3NwzqoB.png", La 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
