@@ -32,28 +32,28 @@ https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/60579
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=cdac68c671cc9157c3fc55d7797d281ff32bedff
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b71478c824f787a6a696139db0d053de6fdd1d38
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+HitsHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2752dee68a7faa9c847216dc22a6821661db891a
+http://127.0.0.1:6878/ace/manifest.m3u8?id=48658c3210eb77e00bdd6b826267df8d917c0498
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1f6a00455c0eb5bf99f63c88edfc155c3272b67a
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+DocumentalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MDOCHD" ,M+ Documentales HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=063319416d537a176dc61f99556b287f651dbfc4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=59d7f6da13c21652b1240578fe57dec0cc1529e6
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
+http://127.0.0.1:6878/ace/manifest.m3u8?id=35557b12a8b8a1b456fba95364640ccebb08e62e
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+AcciónHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" , M+ Acción HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5e188434344241c850ba4c9f602b67a5c6408007
+http://127.0.0.1:6878/ace/manifest.m3u8?id=93b2f5ede5cf2fa0cdb50419258c4f651aabfc42
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c366d103a8c93469ca43e481900a7d23def9c2ad
+http://127.0.0.1:6878/ace/manifest.m3u8?id=af773877b4e11d0d83092dad75b69642dfd0385b
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" , M+ Drama HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1fdde474d884b0bb73342133a1db520ec35cec8f
+http://127.0.0.1:6878/ace/manifest.m3u8?id=285b735eb30a98987abcb08407061afbb290a4ea
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ParamountNetwork" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/mc1/PARCH.png" ,Paramount Network
 http://185.189.225.150:85/Paramount/index.m3u8
