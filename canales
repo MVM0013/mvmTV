@@ -13,6 +13,9 @@ http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" ,Cuatro
 http://185.189.225.150:85/CuatroHD/index.m3u8
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La1" tvg-logo="https://i.imgur.com/1jDS9UC.png", La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
+
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/1024px-Telecinco_2024_Logo.svg.png" ,Telecinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
 
