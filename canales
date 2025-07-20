@@ -94,7 +94,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=55230a7a3cc4e8dfd3cecbfb2d68266aa4e5d
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="NatGeoWildHD" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/NATWHD" ,Nat Geo Wild HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=51d0b5249e229a07ecc52286f56a67c3d9df6d00
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalCocina" tvg-logo="https://canalcocina.es/themes/theme2015/images/main-logo.gif?687cfd12a3484" ,Canal Cocina
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalCocina" tvg-logo="https://i.imgur.com/OYB7lJ0.png" ,Canal Cocina
 http://127.0.0.1:6878/ace/getstream?id=db81615f1b2eebaf584edc252ddd73883123fbb3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD
