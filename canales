@@ -36,7 +36,7 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b71478c824f787a6a696139db0d053de6fdd1d38
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+HitsHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=48658c3210eb77e00bdd6b826267df8d917c0498
+http://127.0.0.1:6878/ace/manifest.m3u8?id=28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=60fcd59471ac4268e6cd6448f068a2b518841c88
@@ -57,10 +57,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=35557b12a8b8a1b456fba95364640ccebb08e
 http://127.0.0.1:6878/ace/manifest.m3u8?id=93b2f5ede5cf2fa0cdb50419258c4f651aabfc42
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=af773877b4e11d0d83092dad75b69642dfd0385b
+http://127.0.0.1:6878/ace/manifest.m3u8?id=124aa6d58fd72a763ed0349c874551bd2504798f
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" , M+ Drama HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=285b735eb30a98987abcb08407061afbb290a4ea
+http://127.0.0.1:6878/ace/manifest.m3u8?id=aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Indie" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png" , M+ Indie HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4f35f115971f0b156baabb8efa9926b1eb8ba5af
@@ -94,6 +94,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=55230a7a3cc4e8dfd3cecbfb2d68266aa4e5d
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="NatGeoWildHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGW.png" ,Nat Geo Wild HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=51d0b5249e229a07ecc52286f56a67c3d9df6d00
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalCocina" tvg-logo="https://canalcocina.es/themes/theme2015/images/main-logo.gif?687cfd12a3484" ,Canal Cocina 
+http://127.0.0.1:6878/ace/manifest.m3u8?id=db81615f1b2eebaf584edc252ddd73883123fbb3
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=21e9665716b55d61bf7fe5a8f91a5ea8249d8047
@@ -224,7 +227,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404
 plugin://script.module.horus?action=play&id=b779e6056975e3682a804d47cbd5cc806217f64d
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlus+2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png" ,Movistar Plus+ 2
-
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+eEllasV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" ,M+ Ellas Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d8c2ed470e847154a88f011137cc206319f6bed5
