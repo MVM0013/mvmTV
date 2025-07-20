@@ -1,13 +1,5 @@
 #EXTM3U player-buffer="30" url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_color.xml.gz"
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La11" tvg-logo="https://i.imgur.com/1jDS9UC.png" catchup="default" catchup-days="3" catchup-source="http://servidor/catchup/la1.m3u8?start={utc}&end={utcend}",La 11
-https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La111" tvg-logo="https://i.imgur.com/1jDS9UC.png" catchup="append" catchup-days="3" catchup-source="&cutv={Y}-{m}-{d}T{H}:{M}:{S}",La 111
-https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La1111" tvg-logo="https://i.imgur.com/1jDS9UC.png" catchup="shift" catchup-days="3",La 1111
-https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La1" tvg-logo="https://i.imgur.com/1jDS9UC.png" ,La 1
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
