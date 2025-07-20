@@ -1,10 +1,10 @@
 #EXTM3U player-buffer="30" url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_color.xml.gz"
 
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La1" tvg-logo="https://i.imgur.com/1jDS9UC.png" catchup="default" catchup-days="7" catchup-source="?timeshift=${offset}",La 1
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La1" tvg-logo="https://i.imgur.com/1jDS9UC.png" ,La 1
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La2" tvg-logo="https://i.imgur.com/3NwzqoB.png" catchup="default" catchup-days="7" catchup-source="?utc=${start}",La 2
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La2" tvg-logo="https://i.imgur.com/3NwzqoB.png" ,La 2
 http://185.189.225.150:85/La2HD/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Antena3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" ,Antena 3
