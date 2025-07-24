@@ -73,6 +73,21 @@ http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AMCHD" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" ,AMC HD
 http://vegafibratv.com:8085/AMC/index.m3u8
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalCocina" tvg-logo="https://i.imgur.com/OYB7lJ0.png" ,Canal Cocina
+http://127.0.0.1:6878/ace/getstream?id=db81615f1b2eebaf584edc252ddd73883123fbb3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Decasa" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png" ,Decasa
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4869e4c131cb3478cc375944c7cc68d1bb8e9dc4
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/DCRMAX" ,DMAX
+https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyMjEwNTAsIm5iZiI6MTc0OTIyMTA1MCwiZXhwIjoxNzQ5MjIxNDEwLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMTIwLjczLjEyMyJ9.4G-t0XqgcfP_kMV9U_bdntyN2Nfx6fJrJeDeRySe9sk/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="NationalGeographicHD" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/NATGHD" ,National Geographic HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="NatGeoWildHD" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/NATWHD" ,Nat Geo Wild HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=51d0b5249e229a07ecc52286f56a67c3d9df6d00
+
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="FactoríadeFicción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" ,Factoría de Ficción
 http://185.189.225.150:85/fdf/index.m3u8
 
@@ -84,21 +99,6 @@ http://185.189.225.150:85/mega/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ANHQV" tvg-logo="https://i.imgur.com/lfco9ht.png" ,Aquí no hay quién viva
 https://fast-channels.atresmedia.com/2ccc5a4b50bdb938cb57c8cca4f02d1086374559/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/1.m3u8
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/DCRMAX" ,DMAX
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyMjEwNTAsIm5iZiI6MTc0OTIyMTA1MCwiZXhwIjoxNzQ5MjIxNDEwLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMTIwLjczLjEyMyJ9.4G-t0XqgcfP_kMV9U_bdntyN2Nfx6fJrJeDeRySe9sk/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="NationalGeographicHD" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/NATGHD" ,National Geographic HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="NatGeoWildHD" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/NATWHD" ,Nat Geo Wild HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=51d0b5249e229a07ecc52286f56a67c3d9df6d00
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalCocina" tvg-logo="https://i.imgur.com/OYB7lJ0.png" ,Canal Cocina
-http://127.0.0.1:6878/ace/getstream?id=db81615f1b2eebaf584edc252ddd73883123fbb3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Decasa" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png" ,Decasa
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4869e4c131cb3478cc375944c7cc68d1bb8e9dc4
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=21e9665716b55d61bf7fe5a8f91a5ea8249d8047
