@@ -97,6 +97,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=51d0b5249e229a07ecc52286f56a67c3d9df6
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalCocina" tvg-logo="https://i.imgur.com/OYB7lJ0.png" ,Canal Cocina
 http://127.0.0.1:6878/ace/getstream?id=db81615f1b2eebaf584edc252ddd73883123fbb3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Decasa" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png" ,Decasa
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4869e4c131cb3478cc375944c7cc68d1bb8e9dc4
+
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=21e9665716b55d61bf7fe5a8f91a5ea8249d8047
 
