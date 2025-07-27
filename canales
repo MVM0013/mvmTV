@@ -23,7 +23,7 @@ http://185.189.225.150:85/LaSexta/index.m3u8
 http://127.0.0.1:6878/ace/manifest.m3u8?id=38287ff99db3590da7a2e077da1777d150167577
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
+http://127.0.0.1:6878/ace/manifest.m3u8?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ÀPunt" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" ,À Punt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/profile_0/chunklist_dvr.m3u8
