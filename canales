@@ -101,10 +101,10 @@ http://185.189.225.150:85/mega/index.m3u8
 https://fast-channels.atresmedia.com/2ccc5a4b50bdb938cb57c8cca4f02d1086374559/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/1.m3u8
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=21e9665716b55d61bf7fe5a8f91a5ea8249d8047
+http://127.0.0.1:6878/ace/manifest.m3u8?id=07f2b92762cfff99bba785c2f5260c7934ca6034
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d10a14db9cdba08c05b475071de68b86a400e35b
+http://127.0.0.1:6878/ace/manifest.m3u8?id=520950d296c952e1864a08e15af9f89f1ab514ec
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVBARHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" ,LaLiga TV BAR HD
 
@@ -119,16 +119,16 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8b55a528c5cf9f1acd11d942472bdd60926db
 #EXTINF:-1 group-title="MOTOR" tvg-id="F1TV55OnBoard" tvg-logo="https://www.horajaen.com/wp-content/uploads/2019/08/CARLOS-SAINZ.png" ,F1 TV 55 On Board | Carlos Sainz | Williams
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DAZN 1 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ee4dc45720d3ec283f61189fbfc120c91d5141bf
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/DAZN_2.png/120px-DAZN_2.png" ,DAZN 2 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN3HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/DAZN_3.png/120px-DAZN_3.png" ,DAZN 3 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6fb944e8985881ae6db89667aca6362e746255b6
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN4HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/DAZN4.png/120px-DAZN4.png" ,DAZN 4 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="TDP" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
@@ -143,7 +143,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=c3da6c4f91d9d10ade00318a869435e19f204
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0585e09bb8ac9720e4c11934f1b184e309291551
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTV2HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" ,M+ LaLiga TV 2 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2809da9b019f403364f6e099a07cee5e8fa70dd7
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTV3HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,M+ LaLiga TV 3 HD
 http://127.0.0.1:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
@@ -152,7 +152,7 @@ http://127.0.0.1:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga2HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN LaLiga 2 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ae16a8f004b1287ee1f53263ab265f72bba0daf5
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga TV HyperMotion 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
@@ -358,3 +358,4 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
