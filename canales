@@ -101,7 +101,7 @@ http://185.189.225.150:85/mega/index.m3u8
 https://fast-channels.atresmedia.com/2ccc5a4b50bdb938cb57c8cca4f02d1086374559/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/1.m3u8
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+http://127.0.0.1:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
@@ -109,7 +109,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVBARHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" ,LaLiga TV BAR HD
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotionHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV HyperMotion HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 
 #EXTINF:-1 group-title="MOTOR" tvg-id="DAZNF1HD" tvg-logo="https://jungle-team.com/wp-content/uploads/2021/02/daznformula.png" ,DAZN F1 HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8b55a528c5cf9f1acd11d942472bdd60926db8ae
@@ -119,7 +119,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8b55a528c5cf9f1acd11d942472bdd60926db
 #EXTINF:-1 group-title="MOTOR" tvg-id="F1TV55OnBoard" tvg-logo="https://www.horajaen.com/wp-content/uploads/2019/08/CARLOS-SAINZ.png" ,F1 TV 55 On Board | Carlos Sainz | Williams
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DAZN 1 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+http://127.0.0.1:6878/ace/manifest.m3u8?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/DAZN_2.png/120px-DAZN_2.png" ,DAZN 2 HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -358,6 +358,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
