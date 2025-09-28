@@ -5,25 +5,25 @@
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La2" tvg-logo="https://i.imgur.com/3NwzqoB.png" ,La 2
-http://185.189.225.150:85/La2HD/index.m3u8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=9934906503661142f97a044ae1509a294057c2ed
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Antena3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" ,Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" ,Cuatro
-http://185.189.225.150:85/CuatroHD/index.m3u8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telecinco_2024_Logo.svg/1024px-Telecinco_2024_Logo.svg.png" ,Telecinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3e7b1911a1f83fd869b6995650a3057778259ca7
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaSexta" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" ,La Sexta
-http://185.189.225.150:85/LaSexta/index.m3u8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=44828a7580cd99fcb36245c327889c47f34b457f
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlus+" tvg-logo="https://atlantiamedia.es/wp-content/uploads/2023/03/movistar-plus.png" ,Movistar Plus+
-http://127.0.0.1:6878/ace/manifest.m3u8?id=38287ff99db3590da7a2e077da1777d150167577
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ÀPunt" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" ,À Punt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/profile_0/chunklist_dvr.m3u8
@@ -358,6 +358,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
