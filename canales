@@ -29,7 +29,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=2940120bf034db79a7f5849846ccea0255172
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="24Horas" tvg-logo="https://i.imgur.com/IUVRm5L.png" ,24 HORAS
-http://127.0.0.1:6878/ace/manifest.m3u8?id=
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
@@ -99,7 +99,7 @@ https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJp
 
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga TV HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=acestream://107c3ce5a5d2527c9f06e4eab87477201791f231
+http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae&pid=29571
@@ -354,6 +354,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
