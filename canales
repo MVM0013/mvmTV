@@ -29,49 +29,47 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=3b2a8b41e7097c16b0468b42d7de0320886fa
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="24Horas" tvg-logo="https://i.imgur.com/IUVRm5L.png" ,24 HORAS
-https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b71478c824f787a6a696139db0d053de6fdd1d38
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+HitsHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695
+http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065&pid=4538
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=60fcd59471ac4268e6cd6448f068a2b518841c88
+http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162&pid=40237
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Vacaciones" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MVVAHD" , M+ Vacaciones HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a0f71ac4897b2ccdf0114b5b3b7877902376a343
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+festival de San Sebastián" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/09/festival_sansebastian_movistarplus.jpg" , M+ FESTIVAL DE SAN SEBASTIÁN  HD
+http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+DocumentalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" ,M+ Documentales HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=59d7f6da13c21652b1240578fe57dec0cc1529e6
+http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9&pid=8337
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Wéstern" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MWEST.png" , M+ Wéstern HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=860dd021db341dbd02979eb8ea650d3f9d846765
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Cómic" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOMIC.png" , M+ CÓMIC HD
+http://127.0.0.1:6878/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2&pid=13299
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=35557b12a8b8a1b456fba95364640ccebb08e62e
+http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae&pid=44213
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+AcciónHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" , M+ Acción HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=93b2f5ede5cf2fa0cdb50419258c4f651aabfc42
+http://127.0.0.1:6878/ace/getstream?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96&pid=42981
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=124aa6d58fd72a763ed0349c874551bd2504798f
+http://127.0.0.1:6878/ace/getstream?id=cf0cb321eed6765c2eadbd9983570f6674ce5df6&pid=28026
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" , M+ Drama HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983
+http://127.0.0.1:6878/ace/getstream?id=a6de6a4977d7801bbddc9c7739d822f4beb358ae&pid=5370
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Indie" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png" , M+ Indie HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4f35f115971f0b156baabb8efa9926b1eb8ba5af
+http://127.0.0.1:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80&pid=3065
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+CineEspañol" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" , M+ Cine Español HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=168ad4a958aa6daa26adeee9700ed0312618bd07
+http://127.0.0.1:6878/ace/getstream?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c&pid=47521
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ParamountNetwork" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/PARHD" ,Paramount Network
-http://185.189.225.150:85/Paramount/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AMCHD" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" ,AMC HD
-http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalCocina" tvg-logo="https://i.imgur.com/OYB7lJ0.png" ,Canal Cocina
 http://127.0.0.1:6878/ace/getstream?id=db81615f1b2eebaf584edc252ddd73883123fbb3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
@@ -358,6 +356,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
