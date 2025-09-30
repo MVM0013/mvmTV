@@ -29,7 +29,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=2940120bf034db79a7f5849846ccea0255172
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="24Horas" tvg-logo="https://i.imgur.com/IUVRm5L.png" ,24 HORAS
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+http://127.0.0.1:6878/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9&pid=30094
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
@@ -40,7 +40,7 @@ http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065&
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
 http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162&pid=40237
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+festival de San Sebastián" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/09/festival_sansebastian_movistarplus.jpg" , M+ FESTIVAL DE SAN SEBASTIÁN  HD
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+FestivaldeSanSebastiánHD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/09/festival_sansebastian_movistarplus.jpg" , M+ Festival de San Sebastián HD
 http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+DocumentalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" ,M+ Documentales HD
@@ -108,10 +108,13 @@ http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae&
 http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLiga2HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" ,M+ LaLiga 2 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=51b363b1c4d42724e05240ad068ad219df8042ec
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga2HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN LaLiga 2 HD
 http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3&pid=1913
+
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVBAR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png" ,LaLiga TV BAR
+http://127.0.0.1:6878/ace/getstream?id=a81bf9bbdc36e1041579f6e7b9f9bd60a9b920dd&pid=2795
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga TV HyperMotion 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
@@ -202,7 +205,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=0f7842f8b6c26571e5a974407b61623e56e6a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones3HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ Liga de Campeones 3 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2b5129adc57d43790634d796fe3468b9fd061259
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" ,M+ Liga de Campeones 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e9f4493d2d851f4636720f639113e05b4a21a74c
@@ -265,10 +268,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=753d4b1f7c4ef43238b5cf23b05572b550a44
 http://127.0.0.1:6878/ace/manifest.m3u8?id=58a4c880ab18486d914751db32a12760e74b75a4
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" ,M+ Deportes 5
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
+http://127.0.0.1:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916&pid=9863
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" ,M+ Deportes 6
-http://127.0.0.1:6878/ace/manifest.m3u8?id=7ba003da71c2af61e5dd16c75ca025494769aa88
+http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a&pid=37019
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Deportes7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" ,M+ Deportes 7
 http://127.0.0.1:6878/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932
@@ -425,6 +428,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
