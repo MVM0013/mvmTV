@@ -195,6 +195,8 @@ http://127.0.0.1:6878/ace/getstream?id=ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="Primera Federación" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" ,Primera Federación
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b40212c43e96e97542ea00f2129212a054853a57
 
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="FEFTV1Grupo1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" ,FEF TV 1 Grupo 1
+
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="FEFTV1Grupo2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" ,FEF TV 1 Grupo 2
 
 
@@ -205,10 +207,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=0f7842f8b6c26571e5a974407b61623e56e6a
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones3HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ Liga de Campeones 3 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+http://127.0.0.1:6878/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d&pid=31110
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" ,M+ Liga de Campeones 4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e9f4493d2d851f4636720f639113e05b4a21a74c
+http://127.0.0.1:6878/ace/getstream?id=53cd86466d1faed03a607be92af601f7e8da128f&pid=39477
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" ,M+ Liga de Campeones 5
 http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
@@ -428,6 +430,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
