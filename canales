@@ -401,6 +401,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=176f0b8565a161f87c81a4a250463e3eaf678
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DSports2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" , DSports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="beINSPORTSXTRAñ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png/revision/latest?cb=20240923145001" ,beINSPORTS XTRA ñ
+https://deportes2.ksdjugfsddeports.com:9091/47_/tracks-v1a1/mono.ts.m3u8?remote=84.120.73.123&token=06421f5d9baad8a368e6e0a126d1050582041bbd-d99388e02efe35f3343978f43c057d71-1759356068-1759334468
+
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 
@@ -430,6 +433,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
