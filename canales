@@ -160,9 +160,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=68697ea4f261289d97bbc3418ad3cbc4180aa
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLiga5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" ,M+ LaLiga 5
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c4bb3a84628b4e00fcca7f71279d05e1ce34b59b
 
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLiga6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG5.png" ,M+ LaLiga 6
-http://127.0.0.1:6878/ace/manifest.m3u8?id=
-
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" ,DAZN LaLiga 3
 http://127.0.0.1:6878/ace/getstream?id=3c72639799f5471b213a073f4c1c6bf28bd08035
 
@@ -190,7 +187,7 @@ http://127.0.0.1:6878/ace/getstream?id=a4ea8b888b5b11a3d08498d7bc858c564b5be423
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" ,LaLiga TV HyperMotion 8
 http://127.0.0.1:6878/ace/getstream?id=233ba21691ea262caae00b0af171347c54c315f6
 
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion9" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG9.png" ,LaLiga TV HyperMotion 9
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion9" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" ,LaLiga TV HyperMotion 9
 http://127.0.0.1:6878/ace/getstream?id=ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="Primera Federación" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" ,Primera Federación
@@ -434,6 +431,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
