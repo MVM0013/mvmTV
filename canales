@@ -29,7 +29,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=2940120bf034db79a7f5849846ccea0255172
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="24Horas" tvg-logo="https://i.imgur.com/IUVRm5L.png" ,24 HORAS
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+http://127.0.0.1:6878/ace/getstream?id=cc5ed178702605513cd18b4899c4be954d306cca
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
@@ -72,8 +72,17 @@ http://127.0.0.1:6878/ace/getstream?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c&
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AMCHD" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" ,AMC HD
 http://127.0.0.1:6878/ace/getstream?id=55ff9ee631af351f365f51cf3601695bf1fd20f3&pid=22
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="SyFy" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" ,SyFy
+http://127.0.0.1:6878/ace/getstream?id=d7d3830018cfd93c7430c19ba703a053680476a0
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="XTRM " tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4d41ccc523c7caa05cb4787445e67bea_XTRM-NUEVO-DESKTOP.jpg" ,XTRM 
+http://127.0.0.1:6878/ace/getstream?id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
+
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="FactoríadeFicción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" ,Factoría de Ficción
 http://127.0.0.1:6878/ace/getstream?id=6f9cd5832e94f613cee0fb5dbde94e9fc37320aa&pid=28385
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="BEMAD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BEMAD.png" ,BE MAD
+http://127.0.0.1:6878/ace/getstream?id=6e1b5fd8753352486aa932f802534a17556e1f60
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Neox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" ,Neox
 http://127.0.0.1:6878/ace/getstream?id=
@@ -396,8 +405,8 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=176f0b8565a161f87c81a4a250463e3eaf678
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DSports2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" , DSports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="beINSPORTSXTRAñ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png/revision/latest?cb=20240923145001" ,beINSPORTS XTRA ñ
-https://deportes2.ksdjugfsddeports.com:9091/47_/tracks-v1a1/mono.ts.m3u8?remote=84.120.73.123&token=06421f5d9baad8a368e6e0a126d1050582041bbd-d99388e02efe35f3343978f43c057d71-1759356068-1759334468
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,AR| ESPN
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
@@ -422,6 +431,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
