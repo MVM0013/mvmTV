@@ -81,7 +81,7 @@ http://127.0.0.1:6878/ace/getstream?id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="FactoríadeFicción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" ,Factoría de Ficción
 http://127.0.0.1:6878/ace/getstream?id=6f9cd5832e94f613cee0fb5dbde94e9fc37320aa&pid=28385
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="BEMAD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BEMAD.png" ,BE MAD
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="BEMAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png" ,BE MAD
 http://127.0.0.1:6878/ace/getstream?id=6e1b5fd8753352486aa932f802534a17556e1f60
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Neox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" ,Neox
@@ -321,7 +321,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsMix" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" ,UK | Sky Sports Mix
 https://planetary.lovecdn.ru/skysportsmixuk/index.fmp4.m3u8?token=8ac25bfae317aeaeeee2b5df0f8fa84f0a20de0a-1e57cc6ba039df462bcbd56ecaa9df36-1759235571-1759224771
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsAction" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2017/07/Sky-Sports-Action-FI.png" ,UK | Sky Sports Action
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportsAction" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" ,UK | Sky Sports Action
 https://community.wideiptv.top/skysportsaction/tracks-v1/index.fmp4.m3u8?token=8805c8aad5fb2e5ae7fcbbc88d7fe931fe146186-db084e581a1d10cd458ca3aed6d7ddeb-1750561213-1750550413
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|PremierSports1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1289.png" ,UK | Premier Sports 1
@@ -431,6 +431,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
