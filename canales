@@ -26,7 +26,7 @@ http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2940120bf034db79a7f5849846ccea0255172eae
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ÀPunt" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" ,À Punt
-https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/profile_0/chunklist_dvr.m3u8
+https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="24Horas" tvg-logo="https://i.imgur.com/IUVRm5L.png" ,24 HORAS
 http://127.0.0.1:6878/ace/getstream?id=cc5ed178702605513cd18b4899c4be954d306cca
@@ -40,13 +40,13 @@ http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065&
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
 http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162&pid=40237
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Terror" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MSANSE.png" , M+ Terror HD
-http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+BBCEarth" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBBC.png" , M+ BBC Earth
+http://127.0.0.1:6878/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+DocumentalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" ,M+ Documentales HD
 http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9&pid=8337
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Romance" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOMIC.png" , M+ Romance HD
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ NavidadHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MNAVID.png" , M+ Navidad HD
 http://127.0.0.1:6878/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2&pid=13299
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
@@ -119,9 +119,6 @@ http://127.0.0.1:6878/ace/getstream?id=ef2d1f8b11deee128d63c9cc7af45a13fab8c90c&
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1&pid=13812
-
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVBAR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png" ,LaLiga TV BAR
-http://127.0.0.1:6878/ace/getstream?id=a81bf9bbdc36e1041579f6e7b9f9bd60a9b920dd&pid=2795
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotionHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV HyperMotion HD
 http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
@@ -244,6 +241,14 @@ http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d&
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones19" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP19.png" ,M+ Liga de Campeones 19
 
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZNBaloncesto" tvg-logo="https://toppng.com/uploads/preview/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk.png" ,DAZN Baloncesto 1
+http://127.0.0.1:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98
+
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZNBaloncesto" tvg-logo="https://toppng.com/uploads/preview/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk.png" ,DAZN Baloncesto 2
+http://127.0.0.1:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
+
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DAZNBaloncesto" tvg-logo="https://toppng.com/uploads/preview/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk.png" ,DAZN Baloncesto 3
+http://127.0.0.1:6878/ace/getstream?id=f4db7197aa4b9487014ba348fca3f78121ac2cae
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+DeportesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M+ Deportes HD
 http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
@@ -357,7 +362,7 @@ http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229&
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865&pid=20773
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/DAZN_3.png/120px-DAZN_3.png" ,DE | DAZN 3
-
+http://127.0.0.1:6878/ace/getstream?id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FR|beINSPORTS1" tvg-logo="https://prod-media.beinsports.com/image/85029984d97fda2dd293f3c7d6cf0c0d.128.png?ver=12-01-2025" ,FR | beIN SPORTS 1
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&pid=27411
@@ -389,10 +394,19 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,AR| ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" ,AR| ESPN 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png" ,AR| ESPN 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d872a44653bf2ad232d5f8476597754b69e3d56c
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" ,AR| ESPN 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=216d20acdaf01a196eda71c81a7a7d5bcbe5ed58
+
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" ,ESPN 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" ,ESPN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=664eb5fe460b96941aed633959a845b185cd8394
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" ,FOX SPORTS 1
@@ -407,11 +421,18 @@ http://127.0.0.1:6878/ace/getstream?id=fea475983d620f5d85e6d36d676531c5710af21e
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NBATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/NBA_TV.svg/revision/latest/scale-to-width-down/250?cb=20171022124352" ,US | NBA TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
 
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NFLNETWORK" tvg-logo="https://static.www.nfl.com/image/upload/q_auto,f_auto/league/s2t764zpvom87qwkarmh" ,US | NFL NETWORK
+http://127.0.0.1:6878/ace/getstream?id=5a71a114fdf460fc90f88b959f83625b964a5d62
+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NFLREDZONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Nfl-redzone-2014-logo.png/revision/latest/scale-to-width-down/250?cb=20150803003856" ,US | NFL RED ZONE
+http://127.0.0.1:6878/ace/getstream?id=21be4fe2052fc66456b4f233428bb40a681bf863
+
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UFCFightPass" tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg-p-500.png" ,US | UFC Fight Pass
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
