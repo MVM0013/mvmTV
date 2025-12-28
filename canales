@@ -389,28 +389,28 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=176f0b8565a161f87c81a4a250463e3eaf678
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DSports2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" , DSports 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,AR| ESPN
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,AR | ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" ,AR| ESPN 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" ,AR | ESPN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ab7f9cc29ad09ee9575fed758ab317c818fdc491
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png" ,AR| ESPN 3
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png" ,AR | ESPN 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d872a44653bf2ad232d5f8476597754b69e3d56c
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" ,AR| ESPN 4
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="AR|ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" ,AR | ESPN 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=216d20acdaf01a196eda71c81a7a7d5bcbe5ed58
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,ESPN
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,US | ESPN
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" ,ESPN 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="US|ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" ,US | ESPN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=664eb5fe460b96941aed633959a845b185cd8394
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" ,FOX SPORTS 1
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" ,US | FOX SPORTS 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c9c062941fbecb16ce29437f346ea7177d720898
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png" ,FOX SPORTS 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FOXSPORTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png" ,US | FOX SPORTS 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="F1TV" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" ,F1 TV
@@ -419,7 +419,7 @@ http://127.0.0.1:6878/ace/getstream?id=fea475983d620f5d85e6d36d676531c5710af21e
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NBATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/NBA_TV.svg/revision/latest/scale-to-width-down/250?cb=20171022124352" ,US | NBA TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NFLNETWORK" tvg-logo="https://static.www.nfl.com/image/upload/q_auto,f_auto/league/s2t764zpvom87qwkarmh" ,US | NFL NETWORK
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NFLNETWORK" tvg-logo="https://static.www.nfl.com/image/upload/q_auto,f_auto/league/s2t764zpvom87qwkarmh" ,NFL NETWORK
 http://127.0.0.1:6878/ace/getstream?id=5a71a114fdf460fc90f88b959f83625b964a5d62
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NFLREDZONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Nfl-redzone-2014-logo.png/revision/latest/scale-to-width-down/250?cb=20150803003856" ,US | NFL RED ZONE
@@ -430,6 +430,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fefd91766cef2af2bf4ded328633fb01051d6df9
+
 
 
 
