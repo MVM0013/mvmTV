@@ -1,10 +1,10 @@
 #EXTM3U player-buffer="30" url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_color.xml.gz"
 
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La1" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/TVEHD" ,La 1
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La2" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/LA2HD" ,La 2
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" ,La 2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Antena3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" ,Antena 3
@@ -28,7 +28,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=2940120bf034db79a7f5849846ccea0255172
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ÀPunt" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" ,À Punt
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="24Horas" tvg-logo="https://i.imgur.com/IUVRm5L.png" ,24 HORAS
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="24Horas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" ,24 HORAS
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos HD
@@ -40,13 +40,13 @@ http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065&
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
 http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162&pid=40237
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+BBCEarth" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBBC.png" , M+ BBC Earth
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+TierraMedia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTIME.png" , M+ Tierra Media
 http://127.0.0.1:6878/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+DocumentalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" ,M+ Documentales HD
 http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9&pid=8337
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ NavidadHD" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MNAVHD" , M+ Navidad HD
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+CineBélico" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCIBE.png" , M+ Cine Bélico
 http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
@@ -67,7 +67,7 @@ http://127.0.0.1:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80&
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+CineEspañol" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" , M+ Cine Español HD
 http://127.0.0.1:6878/ace/getstream?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c&pid=47521
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="squirreldos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Squirrel_Dos.svg/revision/latest?cb=20260101055444" ,squirrel dos
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="squirreldos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SQUI.png" ,squirrel dos
 http://176.65.146.237:8401/play/a09i/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AMCHD" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" ,AMC HD
@@ -441,6 +441,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" ,Red Bull TV
 https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+
 
 
 
