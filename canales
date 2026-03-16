@@ -157,7 +157,7 @@ http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69&
 #EXTINF:-1 group-title="MOTOR" tvg-id="F1TV55OnBoard" tvg-logo="https://www.horajaen.com/wp-content/uploads/2019/08/CARLOS-SAINZ.png" ,F1 TV 55 On Board | Carlos Sainz | Williams
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DAZN_1.png/120px-DAZN_1.png" ,DAZN 1 HD
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=49813
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3&pid=17768
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZN2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/DAZN_2.png/120px-DAZN_2.png" ,DAZN 2 HD
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
