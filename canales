@@ -364,10 +364,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad8
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="PT|DAZN6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/DAZN_6.png/120px-DAZN_6.png" ,PT | DAZN 6
 http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|SkySport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/512px-Sky_Sport_1_DE_Logo_2020.svg.png" ,DE | Sky Sport 1
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE | Sky Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/512px-Sky_Sport_1_DE_Logo_2020.svg.png" ,DE | Sky Sport 1
 http://127.0.0.1:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d&pid=21455
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|SkySport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sky_Sport_2_DE_Logo_2020.svg/512px-Sky_Sport_2_DE_Logo_2020.svg.png" ,DE | Sky Sport 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE | Sky Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sky_Sport_2_DE_Logo_2020.svg/512px-Sky_Sport_2_DE_Logo_2020.svg.png" ,DE | Sky Sport 2
 http://127.0.0.1:6878/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69&pid=24543
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|SkySportBundesliga" tvg-logo="https://i.postimg.cc/nh9HddQH/skysportbundesliga.png" ,DE | Sky Sport Bundesliga
