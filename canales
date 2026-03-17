@@ -382,13 +382,13 @@ http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865&
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DE|DAZN3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/DAZN_3.png/120px-DAZN_3.png" ,DE | DAZN 3
 http://127.0.0.1:6878/ace/getstream?id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FR|beINSPORTS1" tvg-logo="https://prod-media.beinsports.com/image/85029984d97fda2dd293f3c7d6cf0c0d.128.png?ver=12-01-2025" ,FR | beIN SPORTS 1
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FR · beIN SPORTS 1" tvg-logo="https://prod-media.beinsports.com/image/85029984d97fda2dd293f3c7d6cf0c0d.128.png?ver=12-01-2025" ,FR · beIN SPORTS 1
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&pid=27411
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FR|beINSPORTS2" tvg-logo="https://prod-media.beinsports.com/image/a5603bab80b01482a13023b47f67193a.128.png?ver=12-01-2025" ,FR | beIN SPORTS 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FR · beIN SPORTS 2" tvg-logo="https://prod-media.beinsports.com/image/a5603bab80b01482a13023b47f67193a.128.png?ver=12-01-2025" ,FR · beIN SPORTS 2
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc&pid=12690
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FR|beINSPORTS3" tvg-logo="https://prod-media.beinsports.com/image/d2dec7dfa1b1393f4b5dced45011b955.128.png?ver=12-01-2025" ,FR | beIN SPORTS 3
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FR · beIN SPORTS 3" tvg-logo="https://prod-media.beinsports.com/image/d2dec7dfa1b1393f4b5dced45011b955.128.png?ver=12-01-2025" ,FR · beIN SPORTS 3
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8&pid=36990
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="TR|beINSPORTS1" tvg-logo="https://prod-media.beinsports.com/image/85029984d97fda2dd293f3c7d6cf0c0d.128.png?ver=12-01-2025" ,TR | beIN SPORTS 1
