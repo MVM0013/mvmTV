@@ -20,7 +20,7 @@ http://176.65.146.237:8401/play/a09r/index.m3u8
 http://176.65.146.237:8401/play/a0af/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlus+" tvg-logo="https://atlantiamedia.es/wp-content/uploads/2023/03/movistar-plus.png" ,Movistar Plus+
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=33708
+http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=28193
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos
 http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf&pid=29038
