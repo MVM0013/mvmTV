@@ -310,7 +310,7 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportNews" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" ,UK | Sky Sport News
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c&pid=26183
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportFootball" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" ,UK | Sky Sport Football
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK | Sky Sports Football" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" ,UK | Sky Sports Football
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="UK|SkySportPremierLeague" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" ,UK | Sky Sport Premier League
