@@ -222,13 +222,13 @@ http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&
 http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea&pid=14906
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones3HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" ,M+ Liga de Campeones 3 HD
-http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259&pid=46364
+http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373&pid=2889
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" ,M+ Liga de Campeones 4
-http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=2817
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&pid=32342
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" ,M+ Liga de Campeones 5
-http://127.0.0.1:6878/ace/getstream?id=5bed693c6a22de55f1061c509bba5e3aeb2ea2aa&pid=11259
+http://127.0.0.1:6878/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5&pid=49423
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" ,M+ Liga de Campeones 6
 http://127.0.0.1:6878/ace/getstream?id=bf10192dc72a98ee835a1b7ccac8b27737d02f25&pid=36652
