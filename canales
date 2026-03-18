@@ -20,7 +20,7 @@ http://176.65.146.237:8401/play/a09r/index.m3u8
 http://176.65.146.237:8401/play/a0af/index.m3u8
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlus+" tvg-logo="https://atlantiamedia.es/wp-content/uploads/2023/03/movistar-plus.png" ,Movistar Plus+
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70&pid=28193
+http://127.0.0.1:6878/ace/getstream?id=c1b7f54af0de256d1ac0fcac4c130e62660089f4
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos
 http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf&pid=29038
@@ -188,7 +188,6 @@ http://127.0.0.1:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1&
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLiga5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" ,M+ LaLiga 5
 
-
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" ,DAZN LaLiga 3
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" ,DAZN LaLiga 4
@@ -231,7 +230,7 @@ http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&
 http://127.0.0.1:6878/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5&pid=49423
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" ,M+ Liga de Campeones 6
-http://127.0.0.1:6878/ace/getstream?id=bf10192dc72a98ee835a1b7ccac8b27737d02f25&pid=36652
+http://127.0.0.1:6878/ace/getstream?id=85421919c34bb222ec6363f66c1eb88e999d4ff3
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" ,M+ Liga de Campeones 7
 
