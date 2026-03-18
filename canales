@@ -434,7 +434,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=cba8d369eac629b577750edb90370cd1c5fb0
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="F1TV" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" ,F1 TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
 
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NBATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/NBA_TV.svg/revision/latest/scale-to-width-down/250?cb=20171022124352" ,NBA TV
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NBA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/NBA_TV.svg/revision/latest/scale-to-width-down/250?cb=20171022124352" ,NBA TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=42832fbf9a1d3bdcca043e09951d6769fbbe04e7
 
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="NFLCHANNEL" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/khjxu70iiu14uvxridek" ,NFL CHANNEL
