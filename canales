@@ -173,6 +173,9 @@ http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
 #EXTINF:-1 group-title="DEPORTES" tvg-id="GOL" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" ,GOL
 http://127.0.0.1:6878/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f980612
 
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="LALIGAInside" tvg-logo="https://mallorcafootballcup.com/wp-content/uploads/2024/03/RGB_Logotipo_LALIGA-PLUS_coral.png" ,LALIGA Inside
+https://daiconnect.com/live/hls/tvup/tvfy-ligainside/.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport1" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/09/72416049-adbd-4d87-942d-e81bc7b34349.png?bf=0&f=png&p=true&q=60&w=360" ,EuroSport 1
 http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d&pid=28455
 
