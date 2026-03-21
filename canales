@@ -135,7 +135,7 @@ http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8&
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=21540
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD
-http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
+http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae&pid=8166
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotionHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV HyperMotion HD
 http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
@@ -150,7 +150,7 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 http://127.0.0.1:6878/ace/manifest.m3u8?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 
 #EXTINF:-1 group-title="MOTOR" tvg-id="DAZNF1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" ,DAZN F1
-http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69&pid=35711
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2&pid=16659
 
 #EXTINF:-1 group-title="MOTOR" tvg-id="DAZNMotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZMOT.png" ,DAZN MotoGP
 http://127.0.0.1:6878/ace/getstream?id=18b03739d660f0066364343e226e437bf2555d56&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
