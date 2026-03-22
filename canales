@@ -135,7 +135,7 @@ http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8&
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=21540
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD
-http://127.0.0.1:6878/ace/getstream?id=b119416386155a6b85e7d0c7cab3ab92c7bfb87c
+http://127.0.0.1:6878/ace/m/b119416386155a6b85e7d0c7cab3ab92c7bfb87c/f528764d624db129b32c21fbca0cb8d6.m3u8
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotionHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV HyperMotion HD
 http://127.0.0.1:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
