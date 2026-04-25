@@ -214,7 +214,7 @@ http://127.0.0.1:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6&
 
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="Primera Federación" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" ,Primera Federación
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f
+http://127.0.0.1:6878/ace/manifest.m3u8?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigadeCampeonesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,M+ Liga de Campeones HD
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=14076
