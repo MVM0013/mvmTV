@@ -35,19 +35,19 @@ https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+HitsHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD
-http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065&pid=4538
+http://127.0.0.1:6878/ace/getstream?id=bb78482832c454dfbb932912d65726619f924873&pid=11878
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
-http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162&pid=40237
+http://127.0.0.1:6878/ace/getstream?id=0364449064d322a1bc0f97d568452053810ef8bc&pid=7389
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Los2000" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/L2000.png" , M+ Los 2000
-http://127.0.0.1:6878/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
+http://127.0.0.1:6878/ace/getstream?id=b331dcd389eaf6d4af356245cc0a02a3c478d3ed&pid=42869
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+DocumentalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" ,M+ Documentales HD
-http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9&pid=8337
+http://127.0.0.1:6878/ace/getstream?id=3c1b00267a398093848ded743cfdb547e2232216&pid=23071
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ Oscars" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MOSCAR.png" , M+ Oscars
-http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ Comedia Española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TOPCOM.png" , M+ Comedia Española
+http://127.0.0.1:6878/ace/getstream?id=c8a8710788e86761c4c702ee5cb7164e2a0e2d7a&pid=33956
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
 http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae&pid=44213
@@ -56,13 +56,13 @@ http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae&
 http://127.0.0.1:6878/ace/getstream?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96&pid=42981
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
-http://127.0.0.1:6878/ace/getstream?id=cf0cb321eed6765c2eadbd9983570f6674ce5df6&pid=28026
+http://127.0.0.1:6878/ace/getstream?id=b5b4cf132f1c655ed2f0aaa759a6012db140740a&pid=30493
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" , M+ Drama HD
-http://127.0.0.1:6878/ace/getstream?id=a6de6a4977d7801bbddc9c7739d822f4beb358ae&pid=5370
+http://127.0.0.1:6878/ace/getstream?id=fc469b1e22f9a75bf7079995876955b9b293ef7e&pid=26939
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Indie" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" , M+ Indie HD
-http://127.0.0.1:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80&pid=3065
+http://127.0.0.1:6878/ace/getstream?id=205cf36437bf4e0643398f62f212832d4b8e271f&pid=44351
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+CineEspañol" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" , M+ Cine Español HD
 http://127.0.0.1:6878/ace/getstream?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c&pid=47521
@@ -132,7 +132,7 @@ http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8&
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="NatGeoWildHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,Nat Geo Wild HD
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga HD
-http://127.0.0.1:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=45625
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD
 http://127.0.0.1:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=-1
