@@ -86,7 +86,7 @@ http://127.0.0.1:6878/ace/getstream?id=d7d3830018cfd93c7430c19ba703a053680476a0&
 http://127.0.0.1:6878/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="SyFy" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" ,SyFy
-http://127.0.0.1:6878/ace/getstream?id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
+http://127.0.0.1:6878/ace/getstream?id=0abff11099cfe1bb45fac7fd29e996a68a9f1463&pid=6498
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CALLE13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" ,CALLE 13
 http://127.0.0.1:6878/ace/getstream?id=296007b6a8c2ea9ceb7d6528f5e5e109c3142fa0
@@ -136,6 +136,7 @@ https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJp
 http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8&pid=41439
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="NationalGeographicHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" ,National Geographic HD
+http://45.95.78.232:8001/udp/239.106.91.1:5000
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="NatGeoWildHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,Nat Geo Wild HD
 
