@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" ,La 1
-http://45.95.78.232:8001/udp/239.106.81.1:5000
+http://45.95.78.232:8001/udp/239.106.80.1:5000
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" ,La 2
 http://45.95.78.232:8001/udp/239.106.80.2:5000
@@ -20,7 +20,7 @@ http://45.95.78.232:8001/udp/239.106.83.3:5000
 http://45.95.78.232:8001/udp/239.106.83.4:5000
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlus+" tvg-logo="https://atlantiamedia.es/wp-content/uploads/2023/03/movistar-plus.png" ,Movistar Plus+
-http://127.0.0.1:6878/ace/getstream?id=c1b7f54af0de256d1ac0fcac4c130e62660089f4
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b&pid=29803
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos
 http://127.0.0.1:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf&pid=29038
