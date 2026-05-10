@@ -31,6 +31,33 @@ http://45.95.78.232:8001/udp/239.106.82.1:5000
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="24Horas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" ,24 HORAS
 http://45.95.78.232:8001/udp/239.106.80.8:5000
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Neox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" ,Neox
+http://45.95.78.232:8001/udp/239.106.83.8:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" ,Mega
+http://45.95.78.232:8001/udp/239.106.84.5:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Nova" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" ,Nova
+http://45.95.78.232:8001/udp/239.106.83.6:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Atreseries" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" ,Atreseries
+http://45.95.78.232:8001/udp/239.106.85.4:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="FactoríadeFicción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" ,Factoría de Ficción
+http://45.95.78.232:8001/udp/239.106.83.7:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="BEMAD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" ,BE MAD
+http://45.95.78.232:8001/udp/239.106.85.1:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Energy" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" ,Energy
+http://45.95.78.232:8001/udp/239.106.84.4:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Divinity" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" ,Divinity
+http://45.95.78.232:8001/udp/239.106.83.5:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ComedyCentral" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" ,Comedy Central
+http://127.0.0.1:6878/ace/getstream?id=e1c2c2a74a3688066526e5ff212e13d2101f44ad
+
 #EXTINF:-1 group-title="MOVISTAR" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
 
@@ -66,33 +93,6 @@ http://127.0.0.1:6878/ace/getstream?id=205cf36437bf4e0643398f62f212832d4b8e271f&
 
 #EXTINF:-1 group-title="MOVISTAR" tvg-id="M+CineEspañol" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" , M+ Cine Español HD
 http://127.0.0.1:6878/ace/getstream?id=f4e37b63fb042d90528585741a39851af543deca
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ComedyCentral" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" ,Comedy Central
-http://127.0.0.1:6878/ace/getstream?id=e1c2c2a74a3688066526e5ff212e13d2101f44ad
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Neox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" ,Neox
-http://45.95.78.232:8001/udp/239.106.83.8:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" ,Mega
-http://45.95.78.232:8001/udp/239.106.84.5:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Nova" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" ,Nova
-http://45.95.78.232:8001/udp/239.106.83.6:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Atreseries" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" ,Atreseries
-http://45.95.78.232:8001/udp/239.106.85.4:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="FactoríadeFicción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" ,Factoría de Ficción
-http://45.95.78.232:8001/udp/239.106.83.7:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="BEMAD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" ,BE MAD
-http://45.95.78.232:8001/udp/239.106.85.1:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Energy" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" ,Energy
-http://45.95.78.232:8001/udp/239.106.84.4:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Divinity" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" ,Divinity
-http://45.95.78.232:8001/udp/239.106.83.5:5000
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" ,Ten
 http://45.95.78.232:8001/udp/239.106.85.2:5000
