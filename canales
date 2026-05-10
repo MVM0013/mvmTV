@@ -31,65 +31,41 @@ http://45.95.78.232:8001/udp/239.106.82.1:5000
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="24Horas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" ,24 HORAS
 http://45.95.78.232:8001/udp/239.106.80.8:5000
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos HD
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+EstrenosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+HitsHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+HitsHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" ,M+ Hits HD
 http://127.0.0.1:6878/ace/getstream?id=0bb012ac0e815b413831687a4a9b61777b3338f4
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
 http://127.0.0.1:6878/ace/getstream?id=0364449064d322a1bc0f97d568452053810ef8bc&pid=7389
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Los2000" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/L2000.png" , M+ Los 2000
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+Los2000" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/L2000.png" , M+ Los 2000
 http://127.0.0.1:6878/ace/getstream?id=b331dcd389eaf6d4af356245cc0a02a3c478d3ed&pid=42869
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+DocumentalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" ,M+ Documentales HD
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+DocumentalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" ,M+ Documentales HD
 http://127.0.0.1:6878/ace/getstream?id=3c1b00267a398093848ded743cfdb547e2232216&pid=23071
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ Comedia Española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TOPCOM.png" , M+ Comedia Española
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+ Comedia Española" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TOPCOM.png" , M+ Comedia Española
 http://127.0.0.1:6878/ace/getstream?id=c8a8710788e86761c4c702ee5cb7164e2a0e2d7a&pid=33956
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
 http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae&pid=44213
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+AcciónHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" , M+ Acción HD
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+AcciónHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" , M+ Acción HD
 http://127.0.0.1:6878/ace/getstream?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96&pid=42981
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
 http://127.0.0.1:6878/ace/getstream?id=b5b4cf132f1c655ed2f0aaa759a6012db140740a&pid=30493
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" , M+ Drama HD
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" , M+ Drama HD
 http://127.0.0.1:6878/ace/getstream?id=fc469b1e22f9a75bf7079995876955b9b293ef7e&pid=26939
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+Indie" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" , M+ Indie HD
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+Indie" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" , M+ Indie HD
 http://127.0.0.1:6878/ace/getstream?id=205cf36437bf4e0643398f62f212832d4b8e271f&pid=44351
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="M+CineEspañol" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" , M+ Cine Español HD
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+CineEspañol" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" , M+ Cine Español HD
 http://127.0.0.1:6878/ace/getstream?id=f4e37b63fb042d90528585741a39851af543deca
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="SquirrelTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SQUI.png" ,Squirrel TV
-http://45.95.78.232:8001/udp/239.106.84.2:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Squirrel2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuevo_Logo_de_Squirrel_2_en_2026.svg/960px-Nuevo_Logo_de_Squirrel_2_en_2026.svg.png" ,Squirrel 2
-http://45.95.78.232:8001/udp/239.106.84.3:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AXNMOVIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXNWHD" ,AXN MOVIES
-http://127.0.0.1:6878/ace/getstream?id=6b4acf7cab48967eccea5c3e89b1e945ceab457c
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AMCHD" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" ,AMC HD
-http://45.95.78.232:8001/udp/239.106.87.4:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="XTRM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" ,XTRM 
-http://45.95.78.232:8001/udp/239.106.87.3:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DARK " tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png" ,DARK
-http://45.95.78.232:8001/udp/239.106.88.5:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="SyFy" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" ,SyFy
-http://45.95.78.232:8001/udp/239.106.87.5:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CALLE13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" ,CALLE 13
-http://45.95.78.232:8001/udp/239.106.87.6:5000
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="ComedyCentral" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" ,Comedy Central
 http://127.0.0.1:6878/ace/getstream?id=e1c2c2a74a3688066526e5ff212e13d2101f44ad
@@ -121,17 +97,77 @@ http://45.95.78.232:8001/udp/239.106.83.5:5000
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" ,Ten
 http://45.95.78.232:8001/udp/239.106.85.2:5000
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png" ,DKISS
+http://45.95.78.232:8001/udp/239.106.80.4:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DVIAJE" tvg-logo="https://mplay.es/images/logos512/dviaje.png" ,DVIAJE
+http://45.95.78.232:8001/udp/239.106.80.7:5000
+
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Decasa" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" ,Decasa
 http://127.0.0.1:6878/ace/getstream?id=155d742120310a0ca80b0c8833d94979aa7f0b08
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalCocina" tvg-logo="https://i.imgur.com/OYB7lJ0.png" ,Canal Cocina
 http://45.95.78.232:8001/udp/239.106.86.2:5000
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AMCLiving" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMC_Living.svg/330px-AMC_Living.svg.png" ,AMC Living
+http://45.95.78.232:8001/udp/239.106.86.3:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AMCBreak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/3840px-AMC_Break.svg.png" ,AMC Break
+http://45.95.78.232:8001/udp/239.106.80.6:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AMCCrime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/960px-AMC_Crime.svg.png" ,AMC Crime
+http://45.95.78.232:8001/udp/239.106.80.5:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AMCHD" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" ,AMC HD
+http://45.95.78.232:8001/udp/239.106.87.4:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AXNMOVIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXNWHD" ,AXN MOVIES
+http://127.0.0.1:6878/ace/getstream?id=6b4acf7cab48967eccea5c3e89b1e945ceab457c
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="SundanceTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" ,Sundance TV
+http://45.95.78.232:8001/udp/239.106.86.4:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="STARChannelHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" ,STAR Channel HD
+http://45.95.78.232:8001/udp/239.106.88.2:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="WarnerTVHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" ,Warner TV HD
+http://45.95.78.232:8001/udp/239.106.85.3:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="XTRM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" ,XTRM 
+http://45.95.78.232:8001/udp/239.106.87.3:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DARK " tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png" ,DARK
+http://45.95.78.232:8001/udp/239.106.88.5:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="SyFy" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" ,SyFy
+http://45.95.78.232:8001/udp/239.106.87.5:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="SquirrelTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SQUI.png" ,Squirrel TV
+http://45.95.78.232:8001/udp/239.106.84.2:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Squirrel2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuevo_Logo_de_Squirrel_2_en_2026.svg/960px-Nuevo_Logo_de_Squirrel_2_en_2026.svg.png" ,Squirrel 2
+http://45.95.78.232:8001/udp/239.106.84.3:5000
+
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="VEO7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VEO7.png" ,VEO7
 http://45.95.78.232:8001/udp/239.106.91.3:5000
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" ,TRECE
+http://45.95.78.232:8001/udp/239.106.84.7:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CALLE13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" ,CALLE 13
+http://45.95.78.232:8001/udp/239.106.87.6:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="CanalHollywoodHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" ,Canal Hollywood HD
+http://45.95.78.232:8001/udp/239.106.87.2:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="TCM" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" ,TCM
+http://45.95.78.232:8001/udp/239.106.88.3:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="SOMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" ,SOMOS
+http://45.95.78.232:8001/udp/239.106.86.5:5000
+
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" ,DMAX
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyMjEwNTAsIm5iZiI6MTc0OTIyMTA1MCwiZXhwIjoxNzQ5MjIxNDEwLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMTIwLjczLjEyMyJ9.4G-t0XqgcfP_kMV9U_bdntyN2Nfx6fJrJeDeRySe9sk/live/es/fd3a4a326f7e4499b2f0d9e12e3bbd37/index.mpd
+http://45.95.78.232:8001/udp/239.106.84.6:5000
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Discovery" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" ,Discovery 
 http://45.95.78.232:8001/udp/239.106.81.3:5000
@@ -145,7 +181,19 @@ http://45.95.78.232:8001/udp/239.106.86.6:5000
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Historia" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/ae433c5a4691f0aafcf03e28459c65f6_2022_HISTORIA_LOGO_HERO_3D_BLK_RGB.png" ,Historia
 http://45.95.78.232:8001/udp/239.106.89.2:5000
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Odisea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" ,Odisea
+http://45.95.78.232:8001/udp/239.106.89.3:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LevanteTV" tvg-logo="https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=cd8fcd&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Flevantetv.png" ,Levante TV
+http://45.95.78.232:8001/udp/239.106.90.7:5000
+
+EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaOchoMediterráneo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEDITE.png" ,La Ocho Mediterráneo
+http://45.95.78.232:8001/udp/239.106.91.2:5000
+
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga HD
+acestream://4b528d10eaad747ddf52251206177573ee3e9f74
+
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaHDR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" ,M+ LaLiga HDR
 http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LaLiga HD
