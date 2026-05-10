@@ -185,7 +185,7 @@ http://45.95.78.232:8001/udp/239.106.89.2:5000
 http://45.95.78.232:8001/udp/239.106.89.3:5000
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga HD
-acestream://4b528d10eaad747ddf52251206177573ee3e9f74
+http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaHDR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" ,M+ LaLiga HDR
 http://127.0.0.1:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
