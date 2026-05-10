@@ -83,7 +83,7 @@ http://45.95.78.232:8001/udp/239.106.87.4:5000
 http://45.95.78.232:8001/udp/239.106.87.3:5000
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DARK " tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png" ,DARK
-http://127.0.0.1:6878/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
+http://45.95.78.232:8001/udp/239.106.88.5:5000
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="SyFy" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" ,SyFy
 http://45.95.78.232:8001/udp/239.106.87.5:5000
