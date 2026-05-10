@@ -184,12 +184,6 @@ http://45.95.78.232:8001/udp/239.106.89.2:5000
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Odisea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" ,Odisea
 http://45.95.78.232:8001/udp/239.106.89.3:5000
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LevanteTV" tvg-logo="https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=cd8fcd&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Flevantetv.png" ,Levante TV
-http://45.95.78.232:8001/udp/239.106.90.7:5000
-
-EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaOchoMediterráneo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEDITE.png" ,La Ocho Mediterráneo
-http://45.95.78.232:8001/udp/239.106.91.2:5000
-
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga HD
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
 
@@ -258,7 +252,6 @@ http://127.0.0.1:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1&
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNLaLiga5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5.png" ,DAZN LaLiga 5
 
-
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LaLiga TV HyperMotion 3
 http://127.0.0.1:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6&pid=33442
 
@@ -273,7 +266,6 @@ http://127.0.0.1:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6&
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" ,LaLiga TV HyperMotion 8
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="LaLigaTVHyperMotion9" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" ,LaLiga TV HyperMotion 9
-
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="Primera Federación" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" ,Primera Federación
 http://127.0.0.1:6878/ace/manifest.m3u8?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
