@@ -121,11 +121,11 @@ http://45.95.78.232:8001/udp/239.106.80.5:5000
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AMCHD" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" ,AMC HD
 http://45.95.78.232:8001/udp/239.106.87.4:5000
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AXNMOVIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXNWHD" ,AXN MOVIES
-http://127.0.0.1:6878/ace/getstream?id=6b4acf7cab48967eccea5c3e89b1e945ceab457c
-
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="SundanceTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" ,Sundance TV
 http://45.95.78.232:8001/udp/239.106.86.4:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="AXNMOVIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXNWHD" ,AXN MOVIES
+http://127.0.0.1:6878/ace/getstream?id=6b4acf7cab48967eccea5c3e89b1e945ceab457c
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="STARChannelHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" ,STAR Channel HD
 http://45.95.78.232:8001/udp/239.106.88.2:5000
