@@ -238,6 +238,9 @@ http://45.95.78.232:8001/udp/239.106.81.1:5000
 #EXTINF:-1 group-title="DEPORTES" tvg-id="EuroSport2" tvg-logo="https://eu1-prod-images.disco-api.com/2021/09/30/fa1e397e-9a45-408e-b001-f8013f0ef433.png?bf=0&f=png&p=true&q=60&w=360" ,EuroSport 2
 http://45.95.78.232:8001/udp/239.106.81.2:5000
 
+#EXTINF:-1 group-title="DEPORTES" tvg-id="ExtremeChannel" tvg-logo="https://www.extreme.com/en/wp-content/themes/Extreme%20Sports/assets/images/logo.png" ,Extreme Channel
+http://45.95.78.232:8001/udp/239.106.86.8:5000
+
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLiga3HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" ,M+ LaLiga 3 HD
 http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846&pid=18323
 
