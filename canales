@@ -187,6 +187,9 @@ http://45.95.78.232:8001/udp/239.106.89.2:5000
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Odisea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" ,Odisea
 http://45.95.78.232:8001/udp/239.106.89.3:5000
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LevanteTV" tvg-logo="https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=cd8fcd&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Flevantetv.png" ,Levante TV
+http://45.95.78.232:8001/udp/239.106.90.7:5000
+
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaOchoMediterraneo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEDITE.png" ,La Ocho Mediterraneo
 http://45.95.78.232:8001/udp/239.106.91.2:5000
 
