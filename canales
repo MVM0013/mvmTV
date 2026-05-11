@@ -103,6 +103,12 @@ http://45.95.78.232:8001/udp/239.106.85.2:5000
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png" ,DKISS
 http://45.95.78.232:8001/udp/239.106.80.4:5000
 
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LevanteTV" tvg-logo="https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=cd8fcd&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Flevantetv.png" ,Levante TV
+http://45.95.78.232:8001/udp/239.106.90.7:5000
+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaOchoMediterráneo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEDITE.png" ,La Ocho Mediterráneo
+http://45.95.78.232:8001/udp/239.106.91.2:5000
+
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="DVIAJE" tvg-logo="https://mplay.es/images/logos512/dviaje.png" ,DVIAJE
 http://45.95.78.232:8001/udp/239.106.80.7:5000
 
@@ -186,12 +192,6 @@ http://45.95.78.232:8001/udp/239.106.89.2:5000
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Odisea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" ,Odisea
 http://45.95.78.232:8001/udp/239.106.89.3:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LevanteTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEDITE.png" ,Levante TV
-http://45.95.78.232:8001/udp/239.106.90.7:5000
-
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaOchoMediterráneo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEDITE.png" ,La Ocho Mediterráneo
-http://45.95.78.232:8001/udp/239.106.91.2:5000
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LaLigaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" ,M+ LaLiga HD
 http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
