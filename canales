@@ -19,7 +19,7 @@ http://45.95.78.232:8001/udp/239.106.83.3:5000
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaSexta" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" ,La Sexta
 http://45.95.78.232:8001/udp/239.106.83.4:5000
 
-#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlus+" tvg-logo="https://atlantiamedia.es/wp-content/uploads/2023/03/movistar-plus.png" ,Movistar Plus+
+#EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlusHD" tvg-logo="https://atlantiamedia.es/wp-content/uploads/2023/03/movistar-plus.png" ,Movistar Plus HD
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="M+Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,M+ Vamos
