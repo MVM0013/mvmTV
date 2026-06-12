@@ -337,7 +337,7 @@ http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="M+LigaCampeones19" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP19.png" ,M+ Liga de Campeones 19
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZNBaloncesto" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZBA.png" ,DAZN Baloncesto
-http://127.0.0.1:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98
+http://127.0.0.1:6878/ace/getstream?id=6fbd92735502bdebbf1ea58f4298e49759c0cf07&pid=9378
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="DAZNBaloncesto2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZB2.png" ,DAZN Baloncesto 2
 http://127.0.0.1:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
