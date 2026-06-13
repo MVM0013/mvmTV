@@ -5,19 +5,19 @@
 http://127.0.0.1:6878/ace/getstream?id=23c952c5b375715db822f2783803c6e28fab0e34
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="La2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" ,La 2
-http://45.95.78.232:8001/udp/239.106.80.2:5000
+http://127.0.0.1:6878/ace/getstream?id=b80cd193286a7df788c07649667c1e6f64fc9dc7
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Antena3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" ,Antena 3
-http://45.95.78.232:8001/udp/239.106.83.1:5000
+http://127.0.0.1:6878/ace/getstream?id=0c275618ee1208904bc4e7941a695903fb4f081a
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Cuatro" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4HD.png" ,Cuatro
-http://45.95.78.232:8001/udp/239.106.83.2:5000
+http://127.0.0.1:6878/ace/getstream?id=ffc65c23faccbc396b2a8d85f847acff95cee863
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Telecinco" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" ,Telecinco
 http://45.95.78.232:8001/udp/239.106.83.3:5000
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="LaSexta" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" ,La Sexta
-http://45.95.78.232:8001/udp/239.106.83.4:5000
+http://127.0.0.1:6878/ace/getstream?id=1d349b65c0ef3a85533f22ec9d792f41520def47
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="MovistarPlusHD" tvg-logo="https://atlantiamedia.es/wp-content/uploads/2023/03/movistar-plus.png" ,Movistar Plus HD
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
@@ -32,7 +32,7 @@ http://45.95.78.232:8001/udp/239.106.82.1:5000
 http://45.95.78.232:8001/udp/239.106.80.8:5000
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Neox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" ,Neox
-http://45.95.78.232:8001/udp/239.106.83.8:5000
+http://127.0.0.1:6878/ace/getstream?id=db00212f682521825fd027599490f0a010d3675a
 
 #EXTINF:-1 group-title="TELEVISIÓN" tvg-id="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" ,Mega
 http://45.95.78.232:8001/udp/239.106.84.5:5000
@@ -80,10 +80,10 @@ http://127.0.0.1:6878/ace/getstream?id=c8a8710788e86761c4c702ee5cb7164e2a0e2d7a&
 http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae&pid=44213
 
 #EXTINF:-1 group-title="MOVISTAR" tvg-id="M+AcciónHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" , M+ Acción HD
-http://127.0.0.1:6878/ace/getstream?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96&pid=42981
+http://127.0.0.1:6878/ace/getstream?id=f3a6d058791f0818a3301f9d5eeb60cfb54d905d
 
 #EXTINF:-1 group-title="MOVISTAR" tvg-id="M+ComediaHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" , M+ Comedia HD
-http://127.0.0.1:6878/ace/getstream?id=b5b4cf132f1c655ed2f0aaa759a6012db140740a&pid=30493
+http://127.0.0.1:6878/ace/getstream?id=e8cd9088fee41413df360e4539c9e7184a63ffcb
 
 #EXTINF:-1 group-title="MOVISTAR" tvg-id="M+Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" , M+ Drama HD
 http://127.0.0.1:6878/ace/getstream?id=fc469b1e22f9a75bf7079995876955b9b293ef7e&pid=26939
