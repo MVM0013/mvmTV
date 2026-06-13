@@ -67,13 +67,13 @@ http://127.0.0.1:6878/ace/getstream?id=0bb012ac0e815b413831687a4a9b61777b3338f4
 #EXTINF:-1 group-title="MOVISTAR" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
 http://127.0.0.1:6878/ace/getstream?id=0364449064d322a1bc0f97d568452053810ef8bc&pid=7389
 
-#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+Los2000" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/L2000.png" , M+ Los 2000
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+Vacaciones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/L2000.png" , M+ Vacaciones
 http://127.0.0.1:6878/ace/getstream?id=b331dcd389eaf6d4af356245cc0a02a3c478d3ed&pid=42869
 
 #EXTINF:-1 group-title="MOVISTAR" tvg-id="M+DocumentalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" ,M+ Documentales HD
 http://127.0.0.1:6878/ace/getstream?id=3c1b00267a398093848ded743cfdb547e2232216&pid=23071
 
-#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+TopComediaEspañola" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TOPCOM.png" , M+ Top Comedia Española
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TOPCOM.png" , M+ Orgullo
 http://127.0.0.1:6878/ace/getstream?id=c8a8710788e86761c4c702ee5cb7164e2a0e2d7a&pid=33956
 
 #EXTINF:-1 group-title="MOVISTAR" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
@@ -233,7 +233,7 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&pid=4820
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNMUNDIAL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN MUNDIAL
-http://127.0.0.1:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
+http://127.0.0.1:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNMUNDIAL2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN MUNDIAL 2
 http://127.0.0.1:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
@@ -243,6 +243,9 @@ http://127.0.0.1:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
 
 #EXTINF:-1 group-title="FÚTBOL" tvg-id="DAZNMUNDIAL4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" ,DAZN MUNDIAL 4
 http://127.0.0.1:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
+
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="M+Fanzone" tvg-logo="" ,M+ Fanzone
+http://127.0.0.1:6878/ace/getstream?id=7aca5ddc8a21542b23fe51064504a2e600b6a6b5
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="TDP" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" ,Teledeporte
 http://45.95.78.232:8001/udp/239.106.80.9:5000
