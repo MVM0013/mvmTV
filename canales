@@ -67,13 +67,13 @@ http://127.0.0.1:6878/ace/getstream?id=0bb012ac0e815b413831687a4a9b61777b3338f4
 #EXTINF:-1 group-title="MOVISTAR" tvg-id="M+OriginalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" ,M+ Originales HD
 http://127.0.0.1:6878/ace/getstream?id=0364449064d322a1bc0f97d568452053810ef8bc&pid=7389
 
-#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+Vacaciones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/L2000.png" , M+ Vacaciones
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+Vacaciones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVCIVA.png" , M+ Vacaciones
 http://127.0.0.1:6878/ace/getstream?id=b331dcd389eaf6d4af356245cc0a02a3c478d3ed&pid=42869
 
 #EXTINF:-1 group-title="MOVISTAR" tvg-id="M+DocumentalesHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" ,M+ Documentales HD
 http://127.0.0.1:6878/ace/getstream?id=3c1b00267a398093848ded743cfdb547e2232216&pid=23071
 
-#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TOPCOM.png" , M+ Orgullo
+#EXTINF:-1 group-title="MOVISTAR" tvg-id="M+Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORGUL.png" , M+ Orgullo
 http://127.0.0.1:6878/ace/getstream?id=c8a8710788e86761c4c702ee5cb7164e2a0e2d7a&pid=33956
 
 #EXTINF:-1 group-title="MOVISTAR" tvg-id="M+ClásicosHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos HD
